@@ -10,14 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Luciana Ribeiro Costa
+* Raquel Lins da Mata
+* Luciano Machado Mendes da Silva
+* Naiara Helen Flores
+* Eduardo Lordeiro Alves
+* Thamara Machado Rocha
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
