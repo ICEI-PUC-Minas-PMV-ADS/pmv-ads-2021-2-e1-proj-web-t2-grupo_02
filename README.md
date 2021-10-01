@@ -6,7 +6,7 @@
 
 `SEMESTRE` 1° Semestre
 
-O projeto 'PetMatch' é uma plataforma de "match" entre 
+O projeto 'PetMatch' é uma plataforma de "match" entre animais em adoção e os usuários que pretendem adotar. O intuito é encontrar o pet perfeito, que se encaixe com a rotina e preferência do usuário. No site tanto ONG'S, pessoas que querem doar ou dar lar temporário, como adotantes podem se cadastrar.
 
 ## Integrantes
 
