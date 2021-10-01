@@ -6,31 +6,22 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-Exemplo: 
+![My First Board (3)](https://user-images.githubusercontent.com/83349744/135545219-b9562b7a-7224-4cfc-b47d-d437e603d634.jpg)
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+<center>Figura 1 - Arquitetura da Solução</center>
 
-![Diagrama de Componentes](img/.png)
-<center>Figura XX - Arquitetura da Solução</center>
+
 
 A solução implementada deverá conter os seguintes módulos:
-**Navegador** - Interface básica do sistema 
-**Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-**Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-**Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-Hospedagem
-O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto.*  
-A publicação do site no Heroku é feita por meio de uma submissão do projeto* (push) via git para o repositório remoto que se encontra no endereço: 
-https://git.heroku.com/link_exemplo.git
+<ul>
+  <li>Navegador</li>  Interface básica do sistema 
+  <li>Páginas Web</li>  Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  <li>Local Storage</li>  Armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+  <li>Hospedagem</li>  Local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+  </ul>
 
-*O URL do site será definido futuramente, logo a hospedagem também.
-
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
@@ -68,9 +59,12 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 
-## Hospedagem
+## Hospedagem 
+O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto.*  
+A publicação do site no Heroku é feita por meio de uma submissão do projeto* (push) via git para o repositório remoto que se encontra no endereço: 
+https://git.heroku.com/link_exemplo.git
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+*O URL do site será definido futuramente, logo a hospedagem também.
 
 > **Links Úteis**:
 >
