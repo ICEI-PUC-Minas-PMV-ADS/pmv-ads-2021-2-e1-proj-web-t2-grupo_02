@@ -25,20 +25,15 @@ A solução implementada deverá conter os seguintes módulos:
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
+A imagem a seguir ilustra o fluxo do usuário. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+(Tela 1) que possui as opções de Login, Pesquisar, Menu, Newleaster e nossas redes sociais além de um "Fale conosco".
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+Caso ele opte por seguir pelo primeiro caminho (Login), ele é
+redirecionado para a tela de Login (Tela 2), onde pode
+se cadastrar ou seguir adiante com o Login. Nessa tela caso ele clique em Cadastrar, ele é enviado para o nosso formulário (Tela 3) onde deverá preencher. 
+Ele registra seu nome, sexo, endereço, idade e ocupação, seguindo da espécie que deseja adotar. Quando clica em enviar é redirecionado para a tela que mostrará alguns matches (Tela 4).
+Escolhendo o **
 
 Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
 é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
