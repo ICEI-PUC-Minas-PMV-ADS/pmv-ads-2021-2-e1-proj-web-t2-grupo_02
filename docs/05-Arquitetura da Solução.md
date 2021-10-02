@@ -8,7 +8,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![My First Board (3)](https://user-images.githubusercontent.com/83349744/135545219-b9562b7a-7224-4cfc-b47d-d437e603d634.jpg)
+![My First Board (4)](https://user-images.githubusercontent.com/83349744/135725661-4dd6ac75-c7c0-4b4d-905d-8730da5460a0.jpg)
 
 <center>Figura 1 - Arquitetura da Solução</center>
 
@@ -67,7 +67,8 @@ Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (t
 
 A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
 
-![Flowchart (1)](https://user-images.githubusercontent.com/83349744/135725467-48ab37c9-bfd2-430a-b713-32cd18d01ba7.jpg)
+
+![Flowchart (2)](https://user-images.githubusercontent.com/83349744/135725610-5cb215b9-e17b-49f3-a93a-8f659a3e716a.jpg)
 
 
 ## Tecnologias Utilizadas
