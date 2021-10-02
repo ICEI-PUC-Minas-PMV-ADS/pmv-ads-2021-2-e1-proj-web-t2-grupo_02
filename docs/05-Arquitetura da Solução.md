@@ -26,37 +26,43 @@ A solução implementada deverá conter os seguintes módulos:
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
 <h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
-Assim que entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) que possui as opções de Login, Pesquisar, Menu, Newleaster e nossas redes sociais além de um "Fale conosco".
+Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
+(Tela 1) que possui as opções de <b> Login, Pesquisar, Menu, Newleaster </b> e nossas <b> redes sociais </b> além de um <b> "Fale conosco"</b> .
 
-Caso ele opte por seguir pelo primeiro caminho (Login), ele é
+Caso ele opte por seguir pelo primeiro caminho <b>(Login)</b>, ele é
 redirecionado para a tela de Login (Tela 2), onde pode
-se cadastrar ou seguir adiante com o Login. Nessa tela caso ele clique em Cadastrar, ele é enviado para o nosso formulário (Tela 3) onde deverá preencher. 
+se cadastrar ou seguir adiante com o Login. Nessa tela caso ele clique em <b>Cadastrar</b>, ele é enviado para o nosso formulário (Tela 3) onde deverá preencher. 
 Ele registra seu nome, sexo, endereço, idade e ocupação, seguindo da espécie que deseja adotar. Quando clica em enviar é redirecionado para a tela que mostrará alguns matches (Tela 4).
 
 Escolhendo o seu pet ideal e selecionando-o, será levado para sua história (Tela 5), onde poderá seguir dois caminhos.
-O primeiro seria dar petmatch (Botão Match!) que levará para a tela de ficha de adoção, onde terá os termos e a declaração de que concorda com eles. Enviando a ficha, será redirecionado para a Tela 6, onde avisará que sua ficha foi enviada ao tutor do animal e que em breve será respondido.
+O primeiro seria dar <b>petmatch</b> (Botão Match!) que levará para a tela de <b>ficha de adoção</b>, onde terá os termos e a declaração de que concorda com eles. Enviando a ficha, será redirecionado para a Tela 6, onde avisará que sua ficha foi enviada ao tutor do animal e que em breve será respondido.
 Caso o usuário clique na foto do animal, o status do processo será revelado na tela. (Tela 7)
-E se clicar em "Entrar em contato", mostrará as informações da ong, lar temporário ou do tutor (no momento) do animal.
+E se clicar em <b>"Entrar em contato"</b>, mostrará as informações da ong, lar temporário ou do tutor (no momento) do animal.
 
 Voltando a Tela 5, o segundo caminho seria "Entrar em contato" direto. 
 
-Obs: Caso o usuário clicasse em "Quero adotar" no MENU ele seria redirecionado para a Tela 8 onde mostrará vários pets registrados na plataforma. Ele poderá tanto escolher um pet, onde será encaminhado para a tela 5, dando continuidade para a rota, assim como poderá escolher se cadastrar (Tela 2) ou seguir seu Login.
+
+<b>OBS:</b> Caso o usuário clicasse em "Quero adotar" no MENU ele seria redirecionado para a Tela 8 onde mostrará vários pets registrados na plataforma. Ele poderá tanto escolher um pet, onde será encaminhado para a tela 5, dando continuidade para a rota, assim como poderá escolher se cadastrar (Tela 2) ou seguir seu Login.
+
+
 
 <h3>CASO O USUÁRIO QUEIRA SER LAR TEMPORÁRIO: </h3>
 
 Assim que entra na plataforma, ele é apresentado à tela inicial (Tela 1). Considerando que o usuário entrou na plataforma com objetivo de ser lar temporário, ele clicará em Menu onde mostrará várias opções para seguir (Tela 8).
-Clicando em "Lar temporário" será levado para tela do nosso formulário de lar temporário (tela 9 e tela 10). Finalizando ele receberá um aviso de que foi enviado um email, seguido do botão de "Início" onde poderá retornar a Tela inicial (tela 1).
+Clicando em <b>"Lar temporário"</b> será levado para tela do nosso <b>formulário de lar temporário</b>(tela 9 e tela 10). Finalizando ele receberá um aviso de que foi enviado um email, seguido do botão de "Início" onde poderá retornar a Tela inicial (tela 1).
+
 
 <h3> CASO O USUÁRIO QUEIRA DOAR UM ANIMAL: </h3>
-Escolhendo em nosso MENU (tela 8) a opção de "Cadastrar animais", ele será enviado para nosso formulário para Cadastro de Animais (tela 11). Preenchendo as suas informações e do animal, poderá enviar para nossa plataforma.  **
+Escolhendo em nosso MENU (tela 8) a opção de <b>"Cadastrar animais"</b>, ele será enviado para nosso formulário para Cadastro de Animais (tela 11). Preenchendo as suas informações e do animal, poderá enviar para nossa plataforma.  **
+
 
 <h3> CASO O USUÁRIO QUEIRA VIZUALIZAR NOSSA HISTÓRIA: </h3>
-Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por "Nossa História" a tela descrevendo a história de como a idéia da plataforma foi criada será gerada (tela 12).
+Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por <b>"Nossa História"</b> a tela descrevendo a história de como a idéia da plataforma foi criada será gerada (tela 12).
+
 
 <h3> CASO O USUÁRIO QUEIRA VER INFORMAÇÕES: </h3>
 
-Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por "Informações" ele será redirecionado a uma tela com informações a mais sobre o site (tela 13).
+Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por <b>"Informações"</b> ele será redirecionado a uma tela com informações a mais sobre o site (tela 13).
 
 A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
 
