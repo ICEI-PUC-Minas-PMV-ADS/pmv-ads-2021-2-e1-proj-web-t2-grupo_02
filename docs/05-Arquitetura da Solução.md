@@ -25,24 +25,40 @@ A solução implementada deverá conter os seguintes módulos:
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a seguir ilustra o fluxo do usuário. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
+<h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
+Assim que entra na plataforma, ele é apresentado à tela inicial
 (Tela 1) que possui as opções de Login, Pesquisar, Menu, Newleaster e nossas redes sociais além de um "Fale conosco".
 
 Caso ele opte por seguir pelo primeiro caminho (Login), ele é
 redirecionado para a tela de Login (Tela 2), onde pode
 se cadastrar ou seguir adiante com o Login. Nessa tela caso ele clique em Cadastrar, ele é enviado para o nosso formulário (Tela 3) onde deverá preencher. 
 Ele registra seu nome, sexo, endereço, idade e ocupação, seguindo da espécie que deseja adotar. Quando clica em enviar é redirecionado para a tela que mostrará alguns matches (Tela 4).
-Escolhendo o **
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Escolhendo o seu pet ideal e selecionando-o, será levado para sua história (Tela 5), onde poderá seguir dois caminhos.
+O primeiro seria dar petmatch (Botão Match!) que levará para a tela de ficha de adoção, onde terá os termos e a declaração de que concorda com eles. Enviando a ficha, será redirecionado para a Tela 6, onde avisará que sua ficha foi enviada ao tutor do animal e que em breve será respondido.
+Caso o usuário clique na foto do animal, o status do processo será revelado na tela. (Tela 7)
+E se clicar em "Entrar em contato", mostrará as informações da ong, lar temporário ou do tutor (no momento) do animal.
+
+Voltando a Tela 5, o segundo caminho seria "Entrar em contato" direto. 
+
+Obs: Caso o usuário clicasse em "Quero adotar" no MENU ele seria redirecionado para a Tela 8 onde mostrará vários pets registrados na plataforma. Ele poderá tanto escolher um pet, onde será encaminhado para a tela 5, dando continuidade para a rota, assim como poderá escolher se cadastrar (Tela 2) ou seguir seu Login.
+
+<h3>CASO O USUÁRIO QUEIRA SER LAR TEMPORÁRIO: </h3>
+
+Assim que entra na plataforma, ele é apresentado à tela inicial (Tela 1). Considerando que o usuário entrou na plataforma com objetivo de ser lar temporário, ele clicará em Menu onde mostrará várias opções para seguir (Tela 8).
+Clicando em "Lar temporário" será levado para tela do nosso formulário de lar temporário (tela 9 e tela 10). Finalizando ele receberá um aviso de que foi enviado um email, seguido do botão de "Início" onde poderá retornar a Tela inicial (tela 1).
+
+<h3> CASO O USUÁRIO QUEIRA DOAR UM ANIMAL: </h3>
+Escolhendo em nosso MENU (tela 8) a opção de "Cadastrar animais", ele será enviado para nosso formulário para Cadastro de Animais (tela 11). Preenchendo as suas informações e do animal, poderá enviar para nossa plataforma.  **
+
+<h3> CASO O USUÁRIO QUEIRA VIZUALIZAR NOSSA HISTÓRIA: </h3>
+Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por "Nossa História" a tela descrevendo a história de como a idéia da plataforma foi criada será gerada (tela 12).
+
+<h3> CASO O USUÁRIO QUEIRA VER INFORMAÇÕES: </h3>
+
+Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por "Informações" ele será redirecionado a uma tela com informações a mais sobre o site (tela 13).
+
+A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
