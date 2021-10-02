@@ -25,6 +25,7 @@ A solução implementada deverá conter os seguintes módulos:
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
+
 <h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
 Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
 (Tela 1) que possui as opções de <b> Login, Pesquisar, Menu, Newleaster </b> e nossas <b> redes sociais </b> além de um <b> "Fale conosco"</b> .
