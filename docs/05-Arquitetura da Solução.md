@@ -67,7 +67,7 @@ Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (t
 
 A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Flowchart (1)](https://user-images.githubusercontent.com/83349744/135725467-48ab37c9-bfd2-430a-b713-32cd18d01ba7.jpg)
 
 
 ## Tecnologias Utilizadas
