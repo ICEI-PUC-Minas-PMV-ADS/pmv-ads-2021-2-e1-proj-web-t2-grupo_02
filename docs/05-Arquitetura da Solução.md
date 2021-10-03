@@ -54,7 +54,7 @@ Clicando em <b>"Lar temporário"</b> será levado para tela do nosso <b>formulá
 
 
 <h3> CASO O USUÁRIO QUEIRA DOAR UM ANIMAL: </h3>
-Escolhendo em nosso MENU (tela 8) a opção de <b>"Cadastrar animais"</b>, ele será enviado para nosso formulário para Cadastro de Animais (tela 11). Preenchendo as suas informações e do animal, poderá enviar para nossa plataforma.  **
+Escolhendo em nosso MENU (tela 8) a opção de <b>"Cadastrar animais"</b>, ele será enviado para nosso formulário para Cadastro de Animais (tela 11). Preenchendo as suas informações e do animal, poderá enviar para nossa plataforma.  Em seguida, o usuário é redirecionado a página inicial.
 
 
 <h3> CASO O USUÁRIO QUEIRA VIZUALIZAR NOSSA HISTÓRIA: </h3>
@@ -69,6 +69,8 @@ A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
 
 
 ![Flowchart (2)](https://user-images.githubusercontent.com/83349744/135725610-5cb215b9-e17b-49f3-a93a-8f659a3e716a.jpg)
+
+Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/27ec903f-3ac1-4336-b7ef-4f33df1a608c-72bf/ -
 
 
 ## Tecnologias Utilizadas
