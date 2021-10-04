@@ -2,11 +2,17 @@
 # Projeto de Interface
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-A identidade visual do projeto é padronizada e minimalista, para que se torne simples de usar 
 ## User Flow
 
 Estes são os possíveis caminhos que diferentes tipos de usuários podem fazer em nossa plataforma.
+
+A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
+
+
+![Flowchart (2)](https://user-images.githubusercontent.com/83349744/135725610-5cb215b9-e17b-49f3-a93a-8f659a3e716a.jpg)
+
+
+Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/27ec903f-3ac1-4336-b7ef-4f33df1a608c-72bf/ -
 
 <h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
 Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
@@ -46,13 +52,6 @@ Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (t
 <h3> CASO O USUÁRIO QUEIRA VER INFORMAÇÕES: </h3>
 
 Entrando na plataforma vizualizará a tela inicial (tela 1). Clicando em Menu (tela 8) ele verá as opções. Optando por <b>"Informações"</b> ele será redirecionado a uma tela com informações a mais sobre o site (tela 13).
-
-A imagem a seguir é um exemplo de fluxo do usuário (lar temporário).
-
-
-![Flowchart (2)](https://user-images.githubusercontent.com/83349744/135725610-5cb215b9-e17b-49f3-a93a-8f659a3e716a.jpg)
-
-Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/27ec903f-3ac1-4336-b7ef-4f33df1a608c-72bf/ -
 
 
 
@@ -107,6 +106,17 @@ Caso o usuário tenha dado "Match!" no animal, ele será redirecionado a tela de
 
 ### Tela - Parabéns
 A tela de parabéns aparece ao enviar sua ficha de adoção. Nela vai conter a explicação do processo de adoção e onde poderá encontrar o seguimento do processo.
+
+![PARABENS](https://user-images.githubusercontent.com/83349744/135909041-15899eee-3857-4bee-9689-bc05e980bca6.png)
+
+### Tela - Status de adoção
+Ao clicar na foto do animal poderá ver o andamento de seu processo de adoção. Terá a opção de entrar em contato na tela, para caso tenha alguma dúvida ou problema, poderá contatar a ONG (ou tutor) em questão.
+
+![STATUS](https://user-images.githubusercontent.com/83349744/135909436-6a21eb2e-a150-4cbb-9228-0c0a804df2bc.png)
+
+### Tela - Cadastrar animais
+Ao escolher a categoria "Cadastrar animais" no Menu, será enviado a este formulário em nossa plataforma, onde poderá preencher com as informações do animal em questão. 
+
 
 
 
