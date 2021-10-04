@@ -117,6 +117,13 @@ Ao clicar na foto do animal poderá ver o andamento de seu processo de adoção.
 ### Tela - Cadastrar animais
 Ao escolher a categoria "Cadastrar animais" no Menu, será enviado a este formulário em nossa plataforma, onde poderá preencher com as informações do animal em questão. 
 
+![CADASTRAR ANIMAIS](https://user-images.githubusercontent.com/83349744/135910789-25061f4d-27c6-4a9f-8797-63894d464f49.png)
+
+### Tela - Lar temporário
+Esta seção contém um formulário para ser preenchido caso o usuário queira dar lar temporário aos animais da plataforma. Neste caso, possui duas telas pois uma é continuidade do formulário da anterior. É importante preencher estes campos para ser qualificado como um protetor apto à lar temporário.
+
+![LAR TEMP](https://user-images.githubusercontent.com/83349744/135911762-312d152e-c793-4397-a33f-d863e2ea5aef.png)
+
 
 
 
