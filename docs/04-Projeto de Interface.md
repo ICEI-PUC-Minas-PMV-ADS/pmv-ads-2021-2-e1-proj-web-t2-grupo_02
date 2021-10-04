@@ -86,15 +86,15 @@ Quando enviado seu cadastro, ou já registrado na plataforma, encontramos pets q
 
 ![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135921016-6e30fc1b-945b-4159-870c-b040249ae0fc.png)
 
-Esta é uma variação da tela de Match, onde apenas o botão de "entrar em contato" não aparece. Ele é apresentado quando um tutor ou ONG não quer expor seu endereço (da ong ou pessoal). Porém a ONG (ou tutor) ainda sim entrará em contato pela plataforma, email ou celular caso siga em processo de adoção. (OBS: Alguns lugares evitam se expor para não acontecer infortúnios como pessoas abandonando animais em frente de suas portas)
-
-![PET MATCH](https://user-images.githubusercontent.com/83349744/135914088-15d7041f-c46e-4120-b95a-1b68f0f2c1fb.png)
-
 ### Tela - História do Pet
 
 Nesta tela a história do resgate do pet e de sua personalidade são apresentadas. Caso o usuário goste do pet ele possui duas opções: clicar em "Match!" seguindo assim para o processo de adoção, ou clicar em "Entrar em Contato" onde o usuário terá as informações da ONG (ou tutor) caso queira ligar ou fazer uma visita por exemplo.
 
 ![HIST PET](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)
+
+Esta é uma variação da tela de Match, onde apenas o botão de "entrar em contato" não aparece. Ele é apresentado quando um tutor ou ONG não quer expor seu endereço (da ong ou pessoal). Porém a ONG (ou tutor) ainda sim entrará em contato pela plataforma, email ou celular caso siga em processo de adoção. (OBS: Alguns lugares evitam se expor para não acontecer infortúnios como pessoas abandonando animais em frente de suas portas)
+
+![PET MATCH](https://user-images.githubusercontent.com/83349744/135914088-15d7041f-c46e-4120-b95a-1b68f0f2c1fb.png)
 
 ### Tela - Entrar em contato
 Esta é a tela onde as informações da ONG (ou tutor) aparecem.
