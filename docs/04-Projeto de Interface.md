@@ -105,7 +105,8 @@ Esta é a tela onde as informações da ONG (ou tutor) aparecem.
 ### Tela - Ficha de Adoção
 Caso o usuário tenha dado "Match!" no animal, ele será redirecionado a tela de ficha de adoção. Nesta tela existirá um termo de adoção, onde o usuário poderá ler o termo e terá de declarar que está de acordo com estes, seguindo com o processo de adoção, onde assim terá de esperar a resposta do responsável pelo pet.
 
-![FICHA DE ADOÇÃO](https://user-images.githubusercontent.com/83349744/135908137-aebeedb7-d834-40e4-9130-15f35fea8cff.png)
+![FICHA DE ADOÇÃO](https://user-images.githubusercontent.com/83349744/135920827-31be4db9-dca1-4721-82ba-85bfdf065f7c.png)
+
 
 ### Tela - Parabéns
 A tela de parabéns aparece ao enviar sua ficha de adoção. Nela vai conter a explicação do processo de adoção e onde poderá encontrar o seguimento do processo.
