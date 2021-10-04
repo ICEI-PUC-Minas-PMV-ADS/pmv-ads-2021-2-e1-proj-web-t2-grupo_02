@@ -63,7 +63,7 @@ Cabeçalho - local onde são dispostos o logo, login e navegação principal do 
 Conteúdo - apresenta o conteúdo da tela em questão;
 Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 
-Tela - Tela Inicial ou Home-page
+### Tela - Inicial ou Home-page
 A tela de home-page mostra a imagem de um animal. Apresenta um componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
 Um menu pra que vá direto ao objetivo do usuário em questão;
 Componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
@@ -72,45 +72,41 @@ O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newleast
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
 
 
-Tela - Login
+### Tela - Login
 A tela possui componentes que permitem que o usuário cadastre-se no site ou entre em uma conta já existente. Um campo de "Usuário" e "Senha" onde pressionando em "Entrar" fará Login em sua conta, um texto explicando o que nossa plataforma pode, em uma de suas funcionalidades, proporcional caso se cadastre seguido de um botão de "Cadastrar".
 
 ![LOGIN](https://user-images.githubusercontent.com/83349744/135903337-4eaf2079-b14f-4d6d-9d93-f07de299aed8.png)
 
-Tela - Cadastro
-A tela de Leitura de Notícia apresenta, no Bloco de Conteúdo, uma notícia específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+### Tela - Cadastro
+A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado na plataforma e conseguir encontrar seu pet ideal. Esses campos contam com "Nome", "Idade", "Sexo", "Endereço", "Ocupação", "Espécie". Quando completado, deve enviar o formulário.
+
+![CADASTRO](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)
+
+### Tela - Match!
+Quando enviado seu cadastro, ou já registrado na plataforma, encontramos pets que possuem compatibilidade com o seu perfil, e na tela fica disposto um campo com algumas imagens dos pets compatíveis. Clicando em uma delas, você é redirecionado.
+
+![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135904651-8e06ed81-43f4-437a-920c-87455ebb7f9b.png)
 
 
-Figura X - Tela de Leitura de Notícia
-Tela - Salvar Notícias Preferidas
-A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+### Tela - História do Pet
+
+Nesta tela a história do resgate do pet e de sua personalidade são apresentadas. Caso o usuário goste do pet ele possui duas opções: clicar em "Match!" seguindo assim para o processo de adoção, ou clicar em "Entrar em Contato" onde o usuário terá as informações da ONG (ou tutor) caso queira ligar ou fazer uma visita por exemplo.
+
+![HIST PET](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)
+
+### Tela - Entrar em contato
+Esta é a tela onde as informações da ONG (ou tutor) aparecem.
+
+![ENTRAR EM CONT](https://user-images.githubusercontent.com/83349744/135906716-702eab09-7ee8-44dc-9cf1-c08972501e11.png)
 
 
-Figura X - Salvar notícias preferidas
+### Tela - Ficha de Adoção
+Caso o usuário tenha dado "Match!" no animal, ele será redirecionado a tela de ficha de adoção. Nesta tela existirá um termo de adoção, onde o usuário poderá ler o termo e terá de declarar que está de acordo com estes, seguindo com o processo de adoção, onde assim terá de esperar a resposta do responsável pelo pet.
 
-Tela - Notícias Preferidas
-A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+![FICHA DE ADOÇÃO](https://user-images.githubusercontent.com/83349744/135908137-aebeedb7-d834-40e4-9130-15f35fea8cff.png)
 
-
-Figura X - Tela de Notícias Preferidas
-
-
-Tela - Comentários
-Na tela que permite ao usuário comentar uma notícia, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
-
-
-Figura X - Tela de inclusão de comentários
-
-
+### Tela - Parabéns
+A tela de parabéns aparece ao enviar sua ficha de adoção. Nela vai conter a explicação do processo de adoção e onde poderá encontrar o seguimento do processo.
 
 
 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
