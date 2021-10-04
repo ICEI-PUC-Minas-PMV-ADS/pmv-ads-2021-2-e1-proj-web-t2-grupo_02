@@ -16,7 +16,7 @@ Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/2
 
 <h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
 Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
-(Tela 1) que possui as opções de <b> Login, Pesquisar, Menu, Newleaster </b> e nossas <b> redes sociais </b> além de um <b> "Fale conosco"</b> .
+(Tela 1) que possui as opções de <b> Login, Pesquisar, Menu, Newsletter </b> e nossas <b> redes sociais </b> além de um <b> "Fale conosco"</b> .
 
 Caso ele opte por seguir pelo primeiro caminho <b>(Login)</b>, ele é
 redirecionado para a tela de Login (Tela 2), onde pode
@@ -66,7 +66,7 @@ Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 A tela de home-page mostra a imagem de um animal. Apresenta um componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
 Um menu pra que vá direto ao objetivo do usuário em questão;
 Componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
-O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newleaster.
+O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newsletter.
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
 
