@@ -1,46 +1,36 @@
 # Introdução
+De acordo com Chris Bueno (2020), a relação entre homens e animais existe há pelo menos 10.000 anos antes de Cristo. Ambos passaram por um processo evolutivo codependente, sofrendo transformações tanto fisiológicas como de comportamento para sobreviverem às realidades impostas pelas eras. Porém, essa convivência não ficou apenas no campo da subsistência, homens e animais foram capazes de criar relações baseadas no companheirismo e afeto. 
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os animais de estimação vêm ocupando um lugar cada vez mais importante dentro dos lares, muitas vezes sendo considerados parte integrante dos grupos familiares. Contudo, em alguns casos, os sentimentos que formam esse vínculo não são estabelecidos, nesse cenário casos de maus tratos e abandono do animal acabam sendo mais comuns. (LIMA apud MAIA, 2020, p. 17).
+
+De acordo com o Instituto Pet Brasil (IPB, 2019), no país em 2019 existiam aproximadamente 140 milhões de animais de estimação, entre cães, gatos, peixes, aves, répteis e pequenos mamíferos. A maior parte dessa população era composta por felinos (23,9 milhões) e cachorros (54,2 milhões), sendo que desses 3,9 milhões seriam animais em condição de vulnerabilidade (AVC), ou seja, “animais que estariam vivendo sob a tutela de famílias classificadas abaixo da linha da pobreza ou nas ruas, recebendo cuidado de pessoas”. Já os animais abandonados, que seriam aqueles que vivem por um determinado período sem um tutor definido, estariam em sua maioria sob a tutela de Organizações não Governamentais (ONGs) ou de protetores que de forma voluntária acolhem estes animais e promovem a sua adoção. Em 2019 o número de ONGs envolvidas com a proteção de animais seria de 370 instituições, sendo que 169 (46%) estariam localizadas na região Sudeste, 67 (18%) na região Sul, 63 (17%) na região Nordeste, 44 (12%) na região Norte e 26 (7%) na região Centro-Oeste. Juntas essas instituições seriam responsáveis por cerca de 172 mil animais, sendo que 6.833 (4%) seriam felinos e 165.200 (96%) cachorros. 
+
+De acordo com Gerson Luis Ferreira da Silva Filho (2017), as ONGs utilizam de diversas formas para divulgar os animais abrigados e assim localizar adotantes. Entre essas formas, destacam-se feiras de adoção, anúncio em sites especializados e anúncios em mídias sociais, como Facebook, Instagram e Whatsapp. Porém, ainda de acordo com o autor, estes meios possuem algumas limitações como “como facilidade na criação de filtros para busca dos animais, acesso fácil e intuitivo, acompanhamento pós adoção, busca de animais por geo-localização e ainda facilidade no cadastro de novos animais pelas ONGs”.
+Sendo assim, cada vez mais cientes da responsabilidade humana para com os animais de estimação, torna-se necessário pensar em novas formas de possibilitar a divulgação de animais abandonados para adoção e realizar o acompanhamento pós adoção.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Diante do exposto acima, este projeto busca resolver o problema da falta de informações durante o processo de adoção de animais, contribuindo para que adotantes e instituições tenham maior assertividade na adoção do animal de acordo com cada perfil e promovendo condições para vivência do animal em seu novo ambiente.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Este trabalho tem como objetivo geral conectar através de uma plataforma online de combinação, ONGs, protetores, pessoas e outras instituições que queiram doar animais de estimação e pessoas que queiram adotar ou fornecer lar temporário para esses animais. 
+ Como objetivos específicos, podemos destacar:
+* Armazenar e cruzar as informações dos usuários (tutores e adotantes), tornando mais efetivo o processo de adoção
+* Permitir o acompanhamento e auxílio do processo de pós adoção dos animais.
+* Apresentar informações relevantes sobre o processo, escolha do animal e adaptação do animal.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+De acordo com a Organização Mundial da Saúde (OMS), no Brasil estima-se que 10 milhões de gatos e 20 milhões de cães são abandonados. Já o IBOPE e Instituo Waltham, sinalizam que 6 a cada 10 brasileiros deixariam seu animal por motivos como mudança de casa, falta de tempo, questões comportamentais, chegada de um filho(a) e custos com cuidados aos animais.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Devido a crescente taxa de incidência de abandono de animais, agravada pela crise sanitária causada pela Covid 19, observou-se a necessidade de uma ferramenta que possa acelerar o contato entre adotantes e voluntários as instituições, ONGs de proteção aos animais e tutores que tenham o interesse em doar animais, tornando o processo de adoção mais ágil, eficiente e seguro.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Este trabalho tem como principal público-alvo ONGs, instituições, protetores e tutores que desejam doar animais e adotantes e/ou voluntários que desejam oferecer um lar seguro para eles. 
+As ONGs protetoras de animais são instituições não governamentais, que dependem de doações e voluntários para manterem as suas atividades. De acordo com Santin e Souza (2019), os protetores independentes apresentam perfis diversos, porém, “costumam ser mulheres, solteiras, residentes em casas, que destinam parte da sua renda e tempo em prol da salvação destes animais e que o fazem principalmente por afeto”.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
