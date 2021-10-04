@@ -3,58 +3,92 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-## Controle de Versão
+Metodologia 
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+Utiliza-se ferramentas capazes de organizar toda a linha de código, pastas e documentações em ferramentas que possuem mecanismos de compartilhamento. 
 
-O projeto segue a seguinte convenção para o nome de branches:
+A evolução do projeto baseia-se em uma forte elaboração do gerenciamento de tarefas, no que permite um avanço considerável em uma entrega com qualidade em cada fase do projeto. 
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+### Relação de Ambientes de Trabalho
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+Todos os artefatos, são elaboradores e entregues conforme utilização dos programas abaixo: 
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+Ambiente
+Plataforma
+Link de Acesso
+Repositório de código fonte/ Controle de Versões
+GitHub -Classroom/ Git
+https://classroom.github.com/g/s-25ZCJf
+Documentos do projeto
+Google Drive
+https://drive.google.com/drive/u/1/my-drive
+Projeto de Interface e  Wireframes
+Adobe XD
+https://xd.adobe.com/view/27ec903f-3ac1-4336-b7ef-4f33df1a608c-72bf/
+Gerenciamento do Projeto
+Trello
+https://trello.com/invite/b/b4qBHGQ8/b41f444ccccbf60fc0b413986c57fb87/projeto-ado%C3%A7%C3%A3o-segura-de-animais
 
-## Gerenciamento de Projeto
 
-### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Gestão do Código fonte: 
 
-### Processo
+O desenvolvimento do projeto baseia-se em um padrão utilizado no desenvolvimento de software para agilizar a criação e distribuição de códigos, chamado SCM (Sistema de Controle de Código). 
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+O sistema de controle de versões, utilizado é o Git que atuará no controle de versões. 
+
+O objetivo da aplicação desse padrão, será um melhor gerenciamento de backups, organização e armazenamento de todo código desenvolvido.
+
+
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
+
+
+
+
+Gerenciamento do Projeto:
+
+
+Formato de divisão da equipe: 
+
+Lideranças por etapas: Definimos que cada membro da equipe, assumirá o cargo de liderança conjunta (em dupla) respeitando a quantidade de membros existente no time por etapas. A divisão foi efetivada, da seguinte forma: 
+
+Etapa 1: Thamara
+Etapa 2: Thamara
+Etapa 3: Eduardo
+Etapa 4: Luciana/Naiara 
+Etapa 5: Luciano/ Raquel 
+Objetivo: A liderança, irá desempenhar funções como suporte ao membro dos times e supervisão da produtividade através da ferramenta de gerenciamento de tarefas “Trello”, acompanhamento do quadros através: https://trello.com/invite/b/b4qBHGQ8/b41f444ccccbf60fc0b413986c57fb87/projeto-ado%C3%A7%C3%A3o-segura-de-animais
+
+
+
+
+
+
+
+Papéis: 
+
+Documentação: Todos os membros
+Projeto de Interface/Design: Luciana/ Thamara/ Eduardo/ Naiara
+Desenvolvimento Web: Todos os membros
+
+
+Encontros/Reuniões/Meetings: 
+
+As reuniões, foram padronizadas em 4 encontros semanais
+
+Ferramentas utilizadas para os encontros: 
+
+Microsoft Teams
+Discord 
+
+
+Objetivo: As ferramentas permitem interação entre membros, compartilhamento de telas e arquivos.
+
 
 ### Ferramentas
 
