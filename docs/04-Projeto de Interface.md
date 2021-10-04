@@ -84,7 +84,7 @@ A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado n
 ### Tela - Match!
 Quando enviado seu cadastro, ou já registrado na plataforma, encontramos pets que possuem compatibilidade com o seu perfil, e na tela fica disposto um campo com algumas imagens dos pets compatíveis. Clicando em uma delas, você é redirecionado.
 
-![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135904651-8e06ed81-43f4-437a-920c-87455ebb7f9b.png)
+![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135921016-6e30fc1b-945b-4159-870c-b040249ae0fc.png)
 
 Esta é uma variação da tela de Match, onde apenas o botão de "entrar em contato" não aparece. Ele é apresentado quando um tutor ou ONG não quer expor seu endereço (da ong ou pessoal). Porém a ONG (ou tutor) ainda sim entrará em contato pela plataforma, email ou celular caso siga em processo de adoção. (OBS: Alguns lugares evitam se expor para não acontecer infortúnios como pessoas abandonando animais em frente de suas portas)
 
