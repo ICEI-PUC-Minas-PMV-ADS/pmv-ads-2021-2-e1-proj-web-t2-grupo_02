@@ -86,6 +86,9 @@ Quando enviado seu cadastro, ou já registrado na plataforma, encontramos pets q
 
 ![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135904651-8e06ed81-43f4-437a-920c-87455ebb7f9b.png)
 
+Esta é uma variação da tela de Match, onde apenas o botão de "entrar em contato" não aparece. Ele é apresentado quando um tutor ou ONG não quer expor seu endereço (da ong ou pessoal). Porém a ONG (ou tutor) ainda sim entrará em contato pela plataforma, email ou celular caso siga em processo de adoção. (OBS: Alguns lugares evitam se expor para não acontecer infortúnios como pessoas abandonando animais em frente de suas portas)
+
+![PET MATCH](https://user-images.githubusercontent.com/83349744/135914088-15d7041f-c46e-4120-b95a-1b68f0f2c1fb.png)
 
 ### Tela - História do Pet
 
@@ -114,16 +117,36 @@ Ao clicar na foto do animal poderá ver o andamento de seu processo de adoção.
 
 ![STATUS](https://user-images.githubusercontent.com/83349744/135909436-6a21eb2e-a150-4cbb-9228-0c0a804df2bc.png)
 
+### Tela - Quero adotar
+Se o usuário decidir ir direto em Quero Adotar, esta tela será apresentada. Ela pedirá que se cadastre no site, logo o botão de Cadastrar estará na tela. É necessário que o usuário seja cadastrado para dar continuidade ao processo de adoção, que foi apresentado nas telas anteriores e no fluxo de usuário.
+
+![QUERO ADOTAR](https://user-images.githubusercontent.com/83349744/135913470-e65f3c38-a840-4dba-a8f1-a1b54efe483c.png)
+
 ### Tela - Cadastrar animais
 Ao escolher a categoria "Cadastrar animais" no Menu, será enviado a este formulário em nossa plataforma, onde poderá preencher com as informações do animal em questão. 
 
 ![CADASTRAR ANIMAIS](https://user-images.githubusercontent.com/83349744/135910789-25061f4d-27c6-4a9f-8797-63894d464f49.png)
 
-### Tela - Lar temporário
+### Tela - Forneça um Lar temporário
 Esta seção contém um formulário para ser preenchido caso o usuário queira dar lar temporário aos animais da plataforma. Neste caso, possui duas telas pois uma é continuidade do formulário da anterior. É importante preencher estes campos para ser qualificado como um protetor apto à lar temporário.
 
 ![LAR TEMP](https://user-images.githubusercontent.com/83349744/135911762-312d152e-c793-4397-a33f-d863e2ea5aef.png)
 
+![LAR TEMP2](https://user-images.githubusercontent.com/83349744/135912254-37c8b89f-40e9-43d4-a1bc-6ab9caead752.png)
 
+### Tela - Parabéns (Lar temporário)
+Esta tela aparece ao final do preenchimento do cadastro de lar temporário. Com ele um aviso de que recebrá um email de confirmação, e com instruções para os próximos passos caso esteja apto. Na sequência, um botão para voltar a Tela inicial.
+
+![LAR TEMP3](https://user-images.githubusercontent.com/83349744/135912793-665910a3-d905-4711-9db4-30b83a7d9194.png)
+
+### Tela - Informações 
+Quando selecionada a opção no menu de "Informações", uma tela será apresentada onde contém uma imagem de um pet (não necessariamente em adoção na plataforma) e informações a mais sobre a plataforma PetMatch.
+
+![INFORMAÇÕES](https://user-images.githubusercontent.com/83349744/135914453-f15688d6-5d77-47e2-9468-d9020c876121.png)
+
+### Tela - Nossa história
+Ao clicar em "Nossa história" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
+
+![NOSSA HISTORIA](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
 
