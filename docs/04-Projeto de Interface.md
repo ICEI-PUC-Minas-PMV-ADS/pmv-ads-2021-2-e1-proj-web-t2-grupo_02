@@ -58,9 +58,53 @@ Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/2
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
+Cabeçalho - local onde são dispostos o logo, login e navegação principal do site (menu da aplicação) e a barra de pesquisa;
+Conteúdo - apresenta o conteúdo da tela em questão;
+Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+Tela - Tela Inicial ou Home-page
+A tela de home-page mostra a imagem de um animal. Apresenta um componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
+Um menu pra que vá direto ao objetivo do usuário em questão;
+Componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
+O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newleaster.
+
+![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
+
+
+Tela - Login
+A tela possui componentes que permitem que o usuário cadastre-se no site ou entre em uma conta já existente. Um campo de "Usuário" e "Senha" onde pressionando em "Entrar" fará Login em sua conta, um texto explicando o que nossa plataforma pode, em uma de suas funcionalidades, proporcional caso se cadastre seguido de um botão de "Cadastrar".
+
+![LOGIN](https://user-images.githubusercontent.com/83349744/135903337-4eaf2079-b14f-4d6d-9d93-f07de299aed8.png)
+
+Tela - Cadastro
+A tela de Leitura de Notícia apresenta, no Bloco de Conteúdo, uma notícia específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+
+Figura X - Tela de Leitura de Notícia
+Tela - Salvar Notícias Preferidas
+A tela que permite o salvamento de notícias preferidas é uma janela modal (surge sobre outras janelas) quando o usuário pressiona o ícone coração na tela de Leitura de Notícia. Nesta tela, a notícia a ser salva é visualizada e o usuário pode informar um tópico ou escolher entre os já cadastrados. Em seguida deve confirmar ou cancelar o salvamento. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
+
+Figura X - Salvar notícias preferidas
+
+Tela - Notícias Preferidas
+A tela de Notícias Preferidas apresenta a relação de notícias salvas pelo usuário. Nesta tela, as notícias são separadas pelo Tópico informado pelo usuário. Os tópicos servem como uma identificação de agrupamento das notícias salvas. Ao clicar em uma notícia é disparada a tela de visualização de notícia. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+
+Figura X - Tela de Notícias Preferidas
+
+
+Tela - Comentários
+Na tela que permite ao usuário comentar uma notícia, deve-se informar o nome de quem está comentando e o texto do comentário. Esta tela é exibida na forma de uma janela modal. Em seguida, deve-se confirmar ou cancelar o salvamento do comentário. Na sequência, a tela é fechada voltando para o ambiente anterior.
+
+
+Figura X - Tela de inclusão de comentários
+
+
+
+
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
