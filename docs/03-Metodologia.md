@@ -3,9 +3,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-
-Metodologia 
-
 Utiliza-se ferramentas capazes de organizar toda a linha de código, pastas e documentações em ferramentas que possuem mecanismos de compartilhamento. 
 
 A evolução do projeto baseia-se em uma forte elaboração do gerenciamento de tarefas, no que permite um avanço considerável em uma entrega com qualidade em cada fase do projeto. 
