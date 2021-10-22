@@ -1,0 +1,69 @@
+html {
+	margin: 0;
+	padding: 0;
+    width: 1519.2px;
+    height: 712px;
+    }
+
+body  {   
+    background-color: silver;
+    font-family: Helvetica, sans-serif;
+   }
+
+.wrap {
+  width: auto;
+  height: auto;
+  margin: 0; 
+  padding: 0;
+  }
+
+h2  {
+  text-align: center;
+  color: #ffff;
+  }
+
+.topo{
+  background-color: #ffff;
+  height: 168px;
+  }
+
+#logo {
+   margin: 30px 66px
+  }
+#content {
+  float: left;
+  width: 759.6px;
+  height: 396px;
+  background-color: #0246E0;
+  }
+
+#sidebar {
+  float: right;
+  width: 759.6px;
+  height: 396px;
+  }
+
+#rodape {
+  height: 168px;
+  clear: both;
+  }
+footer {
+  background-color: #E0AA14;
+  clear: both;
+  height: 168px;
+  }
+
+#principal {
+  text-align: center;
+  width: 272px;
+  height: 120px;
+  background-color:#F51B64;
+  float: right;
+  }
+
+fieldset{ 
+    margin: 15px 90px;
+    border-radius: 20px;
+    border:0px;
+    color: #fff;
+  }
