@@ -4,116 +4,26 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+# Template do Site
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente.
 
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t2-grupo_02.  e é composto pelos seguintes layouts: 
+⦁	Tela principal
+⦁	Login
+⦁	Tela de usuário 
 
-Código:
-<!--HTML-->
-<html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="./main.css">
-        <title>PetMatch </title>
+A responsividade segue o padrão do Bootstrap
 
+Tela Principal
+Tela que abrange nosso menu, mídias, fale conosco, newsletter e login.
 
-   </head>
-         <body>
-                <div class="hero">
-                    <div class="row"> 
-                        <div class="col1">
-                            <h1>Olá Maria!</h1>
-                            <p> Cruzamos os seus dados e identificamos alguns animais que têm compatibilidade com o seu perfil.</p>
-                        </div>
-                        
-                        <div class="col2">
-                            <img src="./img/cat1.jpg">
-                        </div>
-                    </div>  
-                </div>
-           
-            <footer> 
-                <div>
-                    <ul>
-                        <li>kkk</li>
-                        <li>kkk</li>
-                        <li><kkk/li>
-                        <li>kkk</li>
-                    </ul>
-                </div>
-            </footer>
-         </body>
-</html>
-  
-  
-  <!--CSS-->
-  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap')
+ ![estruturadedados2](https://user-images.githubusercontent.com/83349744/138616499-4b9c5518-ef06-4dbc-8d6c-c32e6b80bc83.jpg)
 
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Source Sans Pro', sans-serif;
-}
+Login
+Aparece ao clicar para efetuar login.
+ ![estruturadedados3](https://user-images.githubusercontent.com/83349744/138616505-4628f785-b1d6-4821-9aff-3118c64c03ae.jpg)
 
-body{
-    margin:0;
-    padding: 0;
-    background: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
-    box-sizing: border-box;
-}
+Tela de Usuário
+Aparece ao usuário efetuar o login.
+ ![telauser](https://user-images.githubusercontent.com/83349744/138616748-abcea74b-a2de-45a2-9436-b57c4e5f4160.jpg)
 
-
-.hero {
-    width: 100%;
-    min-height: 100vh;
-    text-align: left;
-    background: #fff;
-}
-
-.row {
-    display: flex;
-    width: 100%;
-    background: #0040FF;
-    overflow: hidden;
-}
-
-.col1, .col2 {
-    flex-basis:50%;
-    overflow: hidden;
-}
-
-.col2 img{
-    width: 100%;
-}
-
-#footer{
-    width: 100%;
-
-}
-
-footer ul li {
-    background-color:#FDAC1D ;
-    color: white;
-    text-align: left;
-    font-size: 15px;
-    padding: 0px;
-    margin:0px;
-    width: 100%;
-}
-
-footer a {
-color: white;
-text-decoration: none;
-}
-
-footer a:hover {
-text-decoration: underline;
-}
-
-#FD4073; 
-<!--COR ROSA  #FD4073; -->
-  
