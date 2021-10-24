@@ -7,7 +7,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 # Template do Site
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente.
 
-O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t2-grupo_02.  e é composto pelos seguintes layouts: 
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t2-grupo_02/blob/main/docs/04-Projeto%20de%20Interface.md.  e é composto pelos seguintes layouts: 
 -	Tela principal
 -	Login
 -	Tela de usuário 
