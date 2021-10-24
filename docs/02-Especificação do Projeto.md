@@ -37,7 +37,7 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 
 |ID     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
-|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: nossa história, quero adotar, quero ser lar temporário, quero cadastrar animais para  adoção, informações ao adotante, apoio pós adoção e colabore. | ALTA | 
+|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: nossa história, quero adotar, quero ser lar temporário, quero cadastrar animais para  adoção, informações. | ALTA | 
 |RF-002 | O site deve apresentar na página inicial um campo de pesquisa para busca dentro do site. | ALTA |
 |RF-003 | O site deve apresentar imagens dos animais disponíveis para adoção. | ALTA |
 |RF-004 | Quando o usuário clicar na foto do animal disponível para adoção, o site deve redirecioná-lo para uma tela com as informações do animal. | ALTA |
@@ -47,15 +47,9 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 |RF-008 | O site deve ter um formulário para preenchimento do usuário quando ele desejar se cadastrar e após ele realizar o cadastro deverá ser disponibilizado um login e senha para acesso ao site. | ALTA |
 |RF-009 | O site deve realizar o cruzamento entre as informações do cadastro do adotante e os dados dos animais disponíveis e apresentar para o usuário quando ele estiver logado no site os animais que mais combinam com o seu perfil. | ALTA |
 |RF-010 | O site deve ter informações para o usuário sobre o processo de adoção, termo de adoção e guarda responsável e orientações sobre como adaptar o animal no novo lar. | ALTA |
-|RF-011 |O site deve permitir ao usuário entrar contato através da própria plataforma com o protetor/ONG que estiver doando o animal durante e após o processo de adoção. | MÉDIA |
-|RF-012 | O site deve ter  um filtro para que o usuário possa encontrar o animal desejado contendo as seguintes opções: espécie, gênero, idade, características de personalidade e porte do animal. | MÉDIA |
-|RF-013 |O site deve ter um filtro para que o usuário possa encontrar uma pessoa que deseje adotar contendo as seguintes opções:, gênero, idade, características de personalidade, essa opção só deverá ficar disponível para as ONGs e protetores que realizarem o cadastro no site. | MÉDIA |
-|RF-014 | O site deve apresentar para o usuário uma página com as informações de “quem somos”. | MÉDIA |
-|RF-015 | O site deve ter informações para o usuário sobre como ser um lar temporário, requisitos e obrigações. | MÉDIA |
-|RF-016 | O site deve ter as informações para doações para as ONGs e protetores cadastros no site. | MÉDIA |
-|RF-017 | O site deve apresentar na página inicial os ícones das redes sociais da plataforma e ao clicar no ícone de uma das redes sociais, o usuário deverá ser redirecionado para a página da rede social. | BAIXA |
-|RF-018 | O site deve apresentar na página inicial um campo Fale Conosco contendo as informações para contato. | BAIXA |
-|RF-019 | O site deve apresentar na página inicial um campo para cadastro para recebimento de newslletter | BAIXA |
+|RF-011 |O site deve apresentar para o usuário uma página com as informações de “quem somos”. | MÉDIA |
+|RF-012 | O site deve apresentar na página inicial um campo Fale Conosco contendo as informações para contato. | BAIXA |
+
 
 
 
