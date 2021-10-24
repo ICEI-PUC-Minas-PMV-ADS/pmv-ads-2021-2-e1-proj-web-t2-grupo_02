@@ -63,10 +63,8 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser publicado em um ambiente acessível pela Internet
-| ALTA | 
-|RNF-002|Deverá ser possível acessar o site de qualquer navegador (Google Chrome, Safari, etc)
- |  ALTA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível pela Internet| ALTA | 
+|RNF-002|Deverá ser possível acessar o site de qualquer navegador (Google Chrome, Safari, etc) |  ALTA | 
 |RNF-002| O site deve ter validações de segurança como captcha |  ALTA | 
 |RNF-002| O site deverá ser responsivo |  MÉDIA | 
 
