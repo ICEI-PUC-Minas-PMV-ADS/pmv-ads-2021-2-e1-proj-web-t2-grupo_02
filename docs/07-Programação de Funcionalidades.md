@@ -5,7 +5,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 
 ## Tela de Login (RF-001, RF-002, RF-013)
-Na tela inicial terá um botão de LOGIN. Também é disponível o MENU, onde ao clicar será apresentado nossos submenus, assim como uma barra de pesquisa. Caso o usuário clique em login aparecerá uma janela onde poderá efetuar seu login. Ao realizar seu login, será redirecionado a uma página que mostrará os pets que dão MATCH com seu perfil.
+Na tela inicial terá um botão de LOGIN. Também é disponível o MENU, onde ao clicar será apresentado nossos submenus, assim como uma barra de pesquisa. Caso o usuário clique em login aparecerá uma janela onde poderá efetuar seu login. Ao realizar seu login, será redirecionado a uma página que mostrará os pets que dão MATCH com seu perfil. As informações do Login são armazenadas no LocalStorage com estruturas dados baseada em JSON. 
 
  ![estruturadedados2](https://user-images.githubusercontent.com/83349744/138613489-fbe264b4-b386-4387-aad9-4dcf537e8077.jpg)
 ![estruturadedados3](https://user-images.githubusercontent.com/83349744/138613624-b3cbde5b-7be6-42f2-a7ff-27851c47589e.jpg)
