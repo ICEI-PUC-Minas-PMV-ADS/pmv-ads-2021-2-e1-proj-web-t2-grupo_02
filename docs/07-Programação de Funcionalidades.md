@@ -24,23 +24,23 @@ Na tela inicial terá um botão de LOGIN. Também é disponível o MENU, onde ao
 -	style1.css
 -	reset.css
 -	icone_noticia.jpg
--bootstrap.bundle.js
--bootstrap.bundle.js.map
--bootstrap.bundle.min.js
--bootstrapduble.min.js.map
--bootstrap.js
--bootstrap.js.map
--bootstrap.min.js
--bootstrap.min.js.map
--menu.png
--pesquisa.png
--gradebichos.png
--Logo.png
--gatos_banner.png
--img_avatar2.png
--logo.png
--logo1.png
--searchicon.png
+- bootstrap.bundle.js
+- bootstrap.bundle.js.map
+- bootstrap.bundle.min.js
+- bootstrapduble.min.js.map
+- bootstrap.js
+- bootstrap.js.map
+- bootstrap.min.js
+- bootstrap.min.js.map
+- menu.png
+- pesquisa.png
+- gradebichos.png
+- Logo.png
+- gatos_banner.png
+- img_avatar2.png
+- logo.png
+- logo1.png
+- searchicon.png
 
 
 ### Estrutura de Dados
