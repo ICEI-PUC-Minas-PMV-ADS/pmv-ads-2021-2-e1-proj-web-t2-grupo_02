@@ -49,6 +49,7 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 |RF-010 | O site deve ter informações para o usuário sobre o processo de adoção, termo de adoção e guarda responsável e orientações sobre como adaptar o animal no novo lar. | ALTA |
 |RF-011 |O site deve apresentar para o usuário uma página com as informações de “quem somos”. | MÉDIA |
 |RF-012 | O site deve apresentar na página inicial um campo Fale Conosco contendo as informações para contato. | BAIXA |
+|RF-013 | O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada ou realizar seu cadastro. | ALTA |
 
 
 
