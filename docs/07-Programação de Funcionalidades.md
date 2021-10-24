@@ -14,7 +14,7 @@ Na tela inicial terá um botão de LOGIN. Também é disponível o MENU, onde ao
 ### Requisitos atendidos
 -	RF-001 - O site deve apresentar na página inicial um menu com os seguintes submenus: nossa história, quero adotar, quero ser lar temporário, quero cadastrar animais para adoção, informações.
 -	RF-013 - O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada ou realizar seu cadastro.
- RF-002 - O site deve apresentar na página inicial um campo de pesquisa para busca dentro do site.
+- RF-002 - O site deve apresentar na página inicial um campo de pesquisa para busca dentro do site.
 
 ### Artefatos da funcionalidade
 
