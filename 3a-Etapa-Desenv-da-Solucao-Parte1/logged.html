@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Eduardo , Raquel">
+    <!--Foram usados códigos do template principal para padronização-->
+    <title>Usuário Logado | PetMatch</title>
+    <link href="css/style1.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body class="wrap">
+    <div class="wrap">
+        <!--Cabeçalho-->
+        <header class="topo">
+            <nav class="topo">
+                <img id="logo" src="img/Logo.png" width="288px">
+                <div id="menutopo">
+                    <ul id="adjust">
+                        <li class="sem"><img id="usuario1" src="img/img_avatar2.png" width="75px" style="margin-top: -15px;"></li>
+                        <li class="sem"><input type="search" name="search" placeholder="Pesquisar"></li>
+                        <li class="dropdown">
+                            <button class="dropbtn">Menu</button>
+                            <div class="dropdown-content">
+                                <a href="#">Nossa História</a>
+                                <a href="#">Quero Adotar</a>
+                                <a href="#">Lar Temporário</a>
+                                <a href="#">Cadastrar Animais</a>
+                                <a href="#">Informações</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!--Fim do cabeçalho-->
+
+        <!--Área do Conteudo-->
+        <div id="content">
+            <section>
+                <h1>
+                    <div style="float: left;"><img id="usuario2" src="img/img_avatar2.png" width="96px"></div><br>Olá,
+                    Maria!
+                </h1>
+            </section><br>
+            <article>
+                <h2 class="text_corpo">Cruzamos os seus dados e identificamos <br>
+                    alguns animais que têm compatibilidade <br>
+                    com o seu perfil. </h2>
+            </article>
+        </div>
+        <div>
+            <aside id="sidebar" style="background-image: url('img/gradebichos.png')">
+            </aside>
+            <!--Fim do Conteúdo-->
+        </div>
+        <!--Rodapé, mídias, newsletter-->
+        <div>
+            <footer>
+                <center>
+                    <table style="width: 95%;" border="0">
+                        <tbody>
+                            <tr>
+                                <td style="width: 900px;">
+                                    <a href="#" class="fa fa-facebook" style="margin-top: 0px;"></a>
+                                    <a href="#" class="fa fa-twitter" style="margin-top: 0px;"></a>
+                                    <a href="#" class="fa fa-instagram" style="margin-top: 0px;"></a>
+                                    <br>
+                                    <br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>
+                                        <font face="verdana" color="white">Fale conosco</font>
+                                    </b>
+                                </td>
+                                <td style="width: 99px;"><br>
+                                    <form class="form-inline" action="">
+                                        <div style="text-align: center;"><br>
+                                        </div>
+                                        <div style="text-align: center;"><br>
+                                            &nbsp;&nbsp; <label for="email"><b>
+                                                    <font face="verdana" size="2" color="white"> Receba nossa Newsletter
+                                                    </font>
+                                                </b></label></div>
+                                        <input id="email" placeholder="E-mail" name="email" type="email">
+                                        <button type="submit">Inscrever</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </center>
+            </footer>
+            <!--Fim do rodapé-->
+        </div>
+    </div>
+</body>
+
+<script>
+    // Get the modal
+    var modal = document.getElementById('id01');
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
+
+</html>

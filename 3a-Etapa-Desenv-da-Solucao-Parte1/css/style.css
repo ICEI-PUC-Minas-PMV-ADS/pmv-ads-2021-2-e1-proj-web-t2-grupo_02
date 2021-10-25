@@ -1,0 +1,307 @@
+header {
+	background: #ffffff;
+	padding: 10px 0;
+    font-family: 'Bahnschrift', sans-serif;
+}
+
+input[type="search"] {
+  width: 180px;
+  box-sizing: border-box;
+  border: 2px solid #f51b64;
+  border-radius: 30px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('img/searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 16px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=search]:focus {
+  width: 100%;
+}
+
+button {
+  background-color: white;
+  color: #f51b64;
+  padding: 16px 20px;
+  border: solid 2px #f51b64;
+  border-radius: 30px;
+  cursor: pointer;
+  width: 99%;
+  font-size: 16px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.lupa {
+    max-width: 50px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+.box {
+  float: left;
+  width: 40%;
+  height: auto;
+  margin-left: 50px;
+}
+
+ul {
+  margin: 60px 20px 0px 0px
+}
+
+#adjust {
+  margin-top: 30px;
+}
+  
+li {
+  margin-right: 20px;
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: #f51b64;
+  text-align: center;
+  text-decoration: none;
+}
+  
+.menu{
+  float: right;
+  width: auto;
+  height: auto;
+  margin-right: 100px;
+}
+
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border: solid 2px #f51b64;
+    border-radius: 30px;
+  }
+  
+  .dropdown-content a {
+    color: #f51b64;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+.banner {
+    width:100%;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+.form-inline {  
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  background-color: #f51b64;
+  border-radius: 15px;
+  border: 5px solid #f51b64;
+  margin-top: 20px;
+}
+
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #f51b64;
+  border-radius: 30px;
+}
+
+.form-inline button {
+  padding: 10px 20px;
+  background-color: royalblue;
+  border: 1px solid #ddd;
+  color: white;
+  cursor: pointer;
+}
+
+.form-inline button:hover {
+  background-color: royalblue;
+}
+
+@media (max-width: 800px) {
+  .form-inline input {
+    margin: 10px 0;
+  }
+  
+  .form-inline {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50px;
+  margin-top: 40px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+      
+      .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+      
+      .fa-instagram {
+  background: #BD05FF;
+  color: white;
+}
+      
+      .responsive {
+  width: 99%;
+  height: auto;
+}
+
+footer {
+  height: 180px;
+  background-color: #e0aa14;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+  position: relative;
+}
+
+img.avatar {
+  width: 30%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+  position: relative;
+  height: 100px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+    color: white;
+  background-color: #f51b64;
+}
+
+      /* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 98%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ff99ff;
+  box-sizing: border-box;  
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@keyframes animatezoom {
+  from {transform: scale(0)} 
+  to {transform: scale(1)}
+}
+
+  

@@ -1,0 +1,110 @@
+html {
+	margin: 0;
+	padding: 0;
+  width: 100%;
+  height: 100%;
+    }
+
+body  {   
+        font-family: Helvetica, sans-serif;
+        width: 100%;
+        height: 100%;
+   }
+
+#link1 {
+    margin-left: 220px;
+    margin-top: 0px;
+}
+
+.sem {
+  list-style-type: none;
+}
+
+.wrap {
+  width: auto;
+  height: auto;
+  margin: 0; 
+  padding: 0;
+  }
+
+h1 {
+  color: #ffff;
+  font-size:x-large; 
+}
+
+.text_corpo  {
+    text-align: center;
+    color: #ffff;
+    font-size:x-large; 
+    line-height: 1.5;
+    }
+
+#usuario1 {
+      margin: 0px 5px 0px 0px;
+     
+}
+
+#usuario2 {
+  margin-left: 160px;
+  margin-right: 20px;
+}
+
+.topo{
+  background-color: #ffff;
+  height: 132px;
+  }
+
+#menutopo {
+    float: right;
+}
+
+#adjust {
+  margin: 0px 136px 0px 0px;
+}
+
+li {
+  margin-top: 16px;
+}
+
+#logo {
+  margin: 16px 66px;
+ }
+
+#content {
+  float: left;
+  width: 50%;
+  height: 440px;
+  background-color: #0246E0;
+  }
+
+#sidebar {
+  float: right;
+  width: 50%;
+  height: 440px;
+  }
+
+#rodape {
+  height: 100%;
+  clear: both;
+  }
+  
+footer {
+  background-color: #E0AA14;
+  clear: both;
+  height: 100%;
+  }
+
+#principal {
+  text-align: center;
+  width: 272px;
+  height: 120px;
+  background-color:#F51B64;
+  float: right;
+  }
+
+fieldset{ 
+    margin: 15px 90px;
+    border-radius: 20px;
+    border:0px;
+    color: #fff;
+  }
