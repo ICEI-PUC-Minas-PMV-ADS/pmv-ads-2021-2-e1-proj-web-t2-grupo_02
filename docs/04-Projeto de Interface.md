@@ -16,7 +16,7 @@ Neste link poderá ver as telas e seguir os fluxos - https://xd.adobe.com/view/2
 
 <h3>CASO O USUÁRIO QUEIRA ADOTAR: </h3>
 Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
-(Tela 1) que possui as opções de <b> quero adotar,  </b> e nossas <b> redes sociais </b> além de um <b> "Fale conosco"</b> .
+(Tela 1) que possui as opções de <b> loguin <b> quero adotar </b> cadastrar animais <b> quem somos </b>.
 
 Caso ele opte por seguir pelo primeiro caminho <b>(Login)</b>, ele é
 redirecionado para a tela de Login (Tela 2), onde pode
