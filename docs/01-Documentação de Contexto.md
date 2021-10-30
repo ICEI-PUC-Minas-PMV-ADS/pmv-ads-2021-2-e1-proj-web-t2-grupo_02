@@ -15,11 +15,11 @@ Diante do exposto acima, este projeto busca resolver o problema da falta de info
 
 ## Objetivos
 
-Este trabalho tem como objetivo geral conectar através de uma plataforma online de combinação, ONGs, protetores, pessoas e outras instituições que queiram doar animais de estimação e pessoas que queiram adotar ou fornecer lar temporário para esses animais. 
+Este trabalho tem como objetivo geral expor animais para adoção, fornecendo um local online para divulgação dos animais que precisam ser adotados.
  Como objetivos específicos, podemos destacar:
-* Armazenar e cruzar as informações dos usuários (tutores e adotantes), tornando mais efetivo o processo de adoção
-* Permitir o acompanhamento e auxílio do processo de pós adoção dos animais.
-* Apresentar informações relevantes sobre o processo, escolha do animal e adaptação do animal.
+* Fornecer um espaço para ONGs e protetores de animais propagarem os animais disponíveis para adoção.
+* Permitir a construção de um ambiente seguro para que pessoas interessadas em adotar possam encontrar informações, contato das ONGs e protetores de animais; afim de viabilizar a adoção do animal interessado.  
+
 
 ## Justificativa
 
@@ -31,6 +31,6 @@ Devido a crescente taxa de incidência de abandono de animais, agravada pela cri
 
 ## Público-Alvo
 
-Este trabalho tem como principal público-alvo ONGs, instituições, protetores e tutores que desejam doar animais e adotantes e/ou voluntários que desejam oferecer um lar seguro para eles. 
-As ONGs protetoras de animais são instituições não governamentais, que dependem de doações e voluntários para manterem as suas atividades. De acordo com Santin e Souza (2019), os protetores independentes apresentam perfis diversos, porém, “costumam ser mulheres, solteiras, residentes em casas, que destinam parte da sua renda e tempo em prol da salvação destes animais e que o fazem principalmente por afeto”.
+Este trabalho tem como principal público-alvo ONGs, instituições, protetores e tutores que desejam doar animais e adotantes que desejam oferecer um lar seguro para eles. 
+As ONGs e protetoras de animais são instituições não governamentais que resgatam animais, contudo muitas vezes não possuem espaço para manter os animais e precisam coloca-los para adoção. De acordo com Santin e Souza (2019), os protetores independentes apresentam perfis diversos, porém, “costumam ser mulheres, solteiras, residentes em casas, que destinam parte da sua renda e tempo em prol da salvação destes animais e que o fazem principalmente por afeto”.
 
