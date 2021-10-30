@@ -42,7 +42,7 @@ O objetivo da aplicação desse padrão, será um melhor gerenciamento de backup
 * Etapa 1: Thamara
 * Etapa 2: Thamara
 * Etapa 3: Eduardo
-* Etapa 4: Luciana/Naiara 
+* Etapa 4: Luciana e Naiara 
 * Etapa 5: Raquel 
 
 <b> Objetivo </b> : A liderança, irá desempenhar funções como suporte ao membro dos times e supervisão da produtividade através da ferramenta de gerenciamento de tarefas “Trello”, acompanhamento do quadros através: https://trello.com/invite/b/b4qBHGQ8/b41f444ccccbf60fc0b413986c57fb87/projeto-ado%C3%A7%C3%A3o-segura-de-animais
