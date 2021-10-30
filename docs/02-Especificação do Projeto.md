@@ -17,8 +17,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |SOS Bichos Protetor |Mecanismo para ajudar a divulgar animais para adoção. | Para realizar um processo de adoção de animais mais seguro. |
 |SOS Bichos Protetor |Um local para postar as fotos e vídeos dos animais disponíveis para adoção. | Para melhorar a divulgação dos animais que estão sem lar definitivo e precisam ser adotados. |
-|SOS Bichos Protetor |Ter um local para realizar o contato com as pessoas adotantes.| 
-|SOS Bichos Protetor |Para ajudar no processo de adoção e diminuir o número de animais nos abrigos.|
+|SOS Bichos Protetor |Para ajudar no processo de adoção. | Para diminuir o número de animais em abrigos. |
 |Adotante |Uma plataforma que possibilite a visualização dos animais em adoção | Para facilitar a localização do animal. |
 
 
