@@ -8,7 +8,7 @@ Instituto Pet Brasil. <b> País tem 3,9 milhões de animais em condições de Vu
 FILHO, Gerson Luis Ferreira da Silva. <b> Desenvolvimento de aplicativo para adoção de animais abandonados utilizando a linguagem de programação Kotlin e programação reativa. </b> Universidade Federal Tecnológica do Paraná, 2017. Disponível em: < https://repositorio.uftpr.edu.br/jspui/bitstream/1/8162/1/CT COENC 2017 1 4.pdf >. Acesso em: 04/09/2021.
 
 MAIA, Helen Araújo de Oliveira. <b> Acolher e Reintegrar – Centro de Adoção Público de Cães e Gatos na Cidade de João Pessoa – PB. </b> IESP, 2020. Disponível em: <
-https://www.iesp.edu.br/sistema/uploads/arquivos/publicacoes/acolher-e-reintegrar-centro-de-adocao-publico-de-caes-e-gatos-na-cidade-de-joao-pessoa-pb-autor-a-maria-helen-de-araujo-de-oliveira-.pdf. Acesso em: 05/09/2021. 
+https://www.iesp.edu.br/sistema/uploads/arquivos/publicacoes/acolher-e-reintegrar-centro-de-adocao-publico-de-caes-e-gatos-na-cidade-de-joao-pessoa-pb-autor-a-maria-helen-de-araujo-de-oliveira-.pdf. Acesso em: 05/09/2021.
 
 SANTIN, Ana Paula Iglesias; Souza, Viviane Aguiar de Souza. <b> Caracterização do perfil de indivíduos que resgatam animais em situações de maus tratos. </b> Centro Científico Conhecer, 2019. Disponível em:< https://www.conhecer.org.br/enciclop/2019a/agrar/caracterizacao%20do%20perfil.pdf. Acesso em: 05/09/2019.
 
