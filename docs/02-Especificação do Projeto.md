@@ -10,15 +10,15 @@ Neste capítulo será detalhado o escopo e os pontos mais relevantes a serem tra
 
 #### Descrição
 
-Idade: 29 anos
-Estado Civil: Casada
-Naturalidade: Belo Horizonte, MG
-Formação: Gradruação em andamento em Análise e Desenvolvimento de Sistemas, e Economia.
+* Idade: 29 anos
+* Estado Civil: Casada
+* Naturalidade: Belo Horizonte, MG
+* Formação: Gradruação em andamento em Análise e Desenvolvimento de Sistemas, e Economia.
 
 #### Ativadades:
-Ocupação: Analista de projeto
-Redes sociais: Instagram, Linkedin, Whatsapp.
-Hobbies: Viajar, andar de bicicleta, fazer trilha, cachoeira, cinema, sair pra comer.
+* Ocupação: Analista de projeto
+* Redes sociais: Instagram, Linkedin, Whatsapp.
+* Hobbies: Viajar, andar de bicicleta, fazer trilha, cachoeira, cinema, sair pra comer.
 
 #### Motivação:
 * Empatia e compaixão em relação aos aniamis abandonados e maltratados.
@@ -35,15 +35,15 @@ Hobbies: Viajar, andar de bicicleta, fazer trilha, cachoeira, cinema, sair pra c
 ### Alisson Santos Guedes
 
 #### Descrição
-Idade: 27 anos
-Estado civil: casado
-Naturalidade: Belo Horizonte, MG
-Formação: Graduação Licenciatura Física
+* Idade: 27 anos
+* Estado civil: casado
+* Naturalidade: Belo Horizonte, MG
+* Formação: Graduação Licenciatura Física
 
 #### Atividades:
-Ocupação: Product Owner (Dono do produto)
-Redes sociais: Instagram, Twitter, Linkedin, Whatsapp, Facebook.
-Hobbies: Jogar video-games, ler mangás, andar de bicleta, fazer trilha e cachoeira.
+* Ocupação: Product Owner (Dono do produto)
+* Redes sociais: Instagram, Twitter, Linkedin, Whatsapp, Facebook.
+* Hobbies: Jogar video-games, ler mangás, andar de bicleta, fazer trilha e cachoeira.
 
 #### Motivação:
 * Considera os aniamis de estimação parte integrante do grupo familiar.
@@ -60,14 +60,14 @@ Hobbies: Jogar video-games, ler mangás, andar de bicleta, fazer trilha e cachoe
 ### Iris Midlej
 
 #### Descrição
-Idade: 22 anos
-Estado civil: Solteira
-Naturalidade: Rio de Janeiro, RJ
+* Idade: 22 anos
+* Estado civil: Solteira
+* Naturalidade: Rio de Janeiro, RJ
 Formação: Graduação em andamento em Museologia
 
 #### Atividades
-Redes sociais: Instagram, Twitter, Whatsapp
-Hobbies: Pintar, ler e estudar
+* Redes sociais: Instagram, Twitter, Whatsapp
+* Hobbies: Pintar, ler e estudar
 
 #### Motivações:
 * Quer adotar um animal que combine com sua rotina calma
@@ -80,12 +80,12 @@ Hobbies: Pintar, ler e estudar
 ### SOS BICHOS
 
 #### Descrição
-Tempo de atuação: 18 anos
-História: organicação sem fins lucrativos, atuante em Belo Horizonte e região. Foi fundada em 2003 por duas amigas, Mariana e Isabela. Conta com uma rede de apoio formada por empresas parceiras, como clínicas veterinárias, estações de rádio e marcas de ração animal.
+* Tempo de atuação: 18 anos
+* História: organicação sem fins lucrativos, atuante em Belo Horizonte e região. Foi fundada em 2003 por duas amigas, Mariana e Isabela. Conta com uma rede de apoio formada por empresas parceiras, como clínicas veterinárias, estações de rádio e marcas de ração animal.
 
 #### Atividades
-Redes sociais: Blog, Instagram e Facebook
-Atuação: resgate de animais abandonados, cuidados gerais dos animais, busca de adotantes, auxílio na divulgação de animais disponíveis para adoção que não estão sob tutela da ONG e ações para a divulgação dos direitos animais.
+* Redes sociais: Blog, Instagram e Facebook
+* Atuação: resgate de animais abandonados, cuidados gerais dos animais, busca de adotantes, auxílio na divulgação de animais disponíveis para adoção que não estão sob tutela da ONG e ações para a divulgação dos direitos animais.
 
 #### Motivação:
 * Esclarescer a sociedade sobre a importância da adoção e suas responsabilidades
