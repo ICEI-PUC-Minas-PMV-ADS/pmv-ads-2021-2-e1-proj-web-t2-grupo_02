@@ -8,25 +8,25 @@ Neste capítulo será detalhado o escopo e os pontos mais relevantes a serem tra
 
 ### Thamara Machado Rocha
 
-Descrição
+#### Descrição
 
 Idade: 29 anos
 Estado Civil: Casada
 Naturalidade: Belo Horizonte, MG
 Formação: Gradruação em andamento em Análise e Desenvolvimento de Sistemas, e Economia.
 
-Ativadades:
+#### Ativadades:
 Ocupação: Analista de projeto
 Redes sociais: Instagram, Linkedin, Whatsapp.
 Hobbies: Viajar, andar de bicicleta, fazer trilha, cachoeira, cinema, sair pra comer.
 
-Motivação:
+#### Motivação:
 * Empatia e compaixão em relação aos aniamis abandonados e maltratados.
 * Adora animais.
 * Defensora da causa animais.
 * Ama gatos.
 
-Frustações:
+#### Frustações:
 * Dificuldades de encontrar adotantes, especialmente para gatos.
 * Difciuldade de acolher os animais no ato de resgate.
 * Dificuldade na captação e recursos financeiros para saúde e alimentação dos animais.
@@ -34,24 +34,24 @@ Frustações:
 
 ### Alisson Santos Guedes
 
-Descrição
+#### Descrição
 Idade: 27 anos
 Estado civil: casado
 Naturalidade: Belo Horizonte, MG
 Formação: Graduação Licenciatura Física
 
-Atividades:
+#### Atividades:
 Ocupação: Product Owner (Dono do produto)
 Redes sociais: Instagram, Twitter, Linkedin, Whatsapp, Facebook.
 Hobbies: Jogar video-games, ler mangás, andar de bicleta, fazer trilha e cachoeira.
 
-Motivação:
+#### Motivação:
 * Considera os aniamis de estimação parte integrante do grupo familiar.
 * Gosta muito de animais, especialmente gatos.
 * Considera os animais divertidos.
 * Empatia pelos animais
 
-Frustações:
+#### Frustações:
 * Dificuldade em adaptação do animal
 * Custos altos
 * Cuidados diários com o animal (saúde, alimentação).
@@ -59,41 +59,41 @@ Frustações:
 
 ### Iris Midlej
 
-Descrição
+#### Descrição
 Idade: 22 anos
 Estado civil: Solteira
 Naturalidade: Rio de Janeiro, RJ
 Formação: Graduação em andamento em Museologia
 
-Atividades
+#### Atividades
 Redes sociais: Instagram, Twitter, Whatsapp
 Hobbies: Pintar, ler e estudar
 
-Motivações:
+#### Motivações:
 * Quer adotar um animal que combine com sua rotina calma
 
-Frustações:
+#### Frustações:
 * Nunca são claros sobre a personalidade do animal
 * Tem dificuldade de encontrar um animal que tenha um perfil compatível com sua rotina.
 
 
 ### SOS BICHOS
 
-Descrição
+#### Descrição
 Tempo de atuação: 18 anos
 História: organicação sem fins lucrativos, atuante em Belo Horizonte e região. Foi fundada em 2003 por duas amigas, Mariana e Isabela. Conta com uma rede de apoio formada por empresas parceiras, como clínicas veterinárias, estações de rádio e marcas de ração animal.
 
-Atividades
+#### Atividades
 Redes sociais: Blog, Instagram e Facebook
 Atuação: resgate de animais abandonados, cuidados gerais dos animais, busca de adotantes, auxílio na divulgação de animais disponíveis para adoção que não estão sob tutela da ONG e ações para a divulgação dos direitos animais.
 
-Motivação:
+#### Motivação:
 * Esclarescer a sociedade sobre a importância da adoção e suas responsabilidades
 * Divulgar a causa animail para que seus direitos sejam reconhecidos e valorizados, baseados na importante declaração universal dos direitos dos animais
 * Assegurar o direito a vida e proteger os animais contra maus tratos e outros atos cruéis.
 * Retorno positivos das adoções realizadas
 
-Frustações:
+#### Frustações:
 * O descaso e despreparo dos órgãos públicos principalmente no momentos de abrigar ou prestar atendimento médico aos animais resgatados
 * Encontrar animais vítimas de instrumentalização e escravidão
 * Famílias que adotam ou que acolhem o animal e devolvem em um período muito curto de tempo
@@ -103,7 +103,7 @@ Frustações:
 * Ausência de companhas de adoção
 
 
-(imgs)
+
 
 
 ## Histórias de Usuários
