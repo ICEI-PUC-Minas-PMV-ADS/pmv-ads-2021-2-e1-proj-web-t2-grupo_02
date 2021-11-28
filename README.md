@@ -12,7 +12,6 @@ O projeto 'PetMatch' é uma plataforma de "match" entre animais em adoção e os
 
 * Luciana Ribeiro Costa
 * Raquel Lins da Mata
-* Luciano Machado Mendes da Silva
 * Naiara Helen Flores
 * Eduardo Lordeiro Alves
 * Thamara Machado Rocha
