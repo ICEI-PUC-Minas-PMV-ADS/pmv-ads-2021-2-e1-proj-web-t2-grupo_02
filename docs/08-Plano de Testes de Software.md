@@ -13,22 +13,22 @@ Passos
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
-- 4°) Clicar no botão de menu do site "	
-Critérios de Êxito : 	Ao clicar no botão do menu principal, deverão ser habilitados os seguintes submenus: quem somos, quero adotar e cadastrar.	
+- 4°) Clicar no botão de menu do site <br>
+Critérios de Êxito : 	Ao clicar no botão do menu principal, deverão ser habilitados os seguintes submenus: quem somos, quero adotar e cadastrar. <br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
 ### Caso de Teste	CT-02 Visualizar as imagens dos animais disponíveis para adoção	
-Requisitos Associados	"RF-002 Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção.	"	
-Objetivo do Teste	Validar que ao clicar no submenu Quero Adotar, o usuário é redirecionado para uma tela onde ele consegui visualizar os animais disponíveis para adoção	
+Requisitos Associados	"RF-002 Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção."	<br>	
+Objetivo do Test : Validar que ao clicar no submenu Quero Adotar, o usuário é redirecionado para uma tela onde ele consegui visualizar os animais disponíveis para adoção	
 Passos	
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de menu do site 
-- 5°) Clicar no submenu Quero Adotar"	
+- 5°) Clicar no submenu Quero Adotar"	<br>
 Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habilitado o submenu Quero Adotar 
-Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para uma tela contendo as imagens dos animais "	
-Registro de Execucação:	Teste executado com sucesso 	
+Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para uma tela contendo as imagens dos animais "	<br>
+Registro de Execucação:	Teste executado com sucesso <br>	
 		
 ### Caso de Teste	CT-03 Visualizar as informações do animal disponível para adoção	
 Requisitos Associados	RF-003 Quando o usuário clicar na foto do animal disponível para adoção, o site deve redirecioná-lo para uma tela com as informações do animal.	
@@ -39,7 +39,7 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de menu do site 
 - 5°) Clicar no submenu Quero Adotar
-- 6°) Clicar na foto do animal disponível para adoção"	
+- 6°) Clicar na foto do animal disponível para adoção"	<br>
 Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habilitado o submenu Quero Adotar 
 Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para uma tela contendo as imagens dos animais 
 Ao cicar na foto do animal o usuário deverá ser redirecionado para uma tela contendo a imagem, a histórias e as informações de contato para adoção do animal"	
@@ -54,7 +54,7 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de menu do site 
 - 5°) Clicar no submenu Cadastrar
-- 6°) Preencher o formulário"	
+- 6°) Preencher o formulário"	<br>
 Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habilitado o submenu Cadastrar
 Ao selecionar o submenu Cadastrar o usuário deverá ser redirecionado para uma tela contendo os seguintes campos para preenchimento: nome, telefone, data de nascimento, e-mail, endeereço, gênero, complemento, ocupação e senha.
 O usuário não deverá conseguir prosseguir com o cadastro no site se um dos campos do formulário não for preenchido
