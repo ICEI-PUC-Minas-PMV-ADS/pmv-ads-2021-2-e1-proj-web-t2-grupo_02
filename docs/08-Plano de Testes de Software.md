@@ -13,7 +13,7 @@ Passos
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
-- 4°) Clicar no botão de menu do site <br>
+- 4°) Clicar no botão de menu do site  <br>
 Critérios de Êxito : 	Ao clicar no botão do menu principal, deverão ser habilitados os seguintes submenus: quem somos, quero adotar e cadastrar. <br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
@@ -70,7 +70,7 @@ Passos
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
 - 4°) Realizar o login no site 
-- 5°) Clicar na opção excluir na foto do animal desejado"	
+- 5°) Clicar na opção excluir na foto do animal desejado" <br>	
 Critérios de Êxito 	"O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Ao realizar o login no site o usuário deverá visualizar as fotos dos animais que foram cadastrados por ele no site 
 Ao realizar o login no site o usuário deverá ter a opção de excluir os dados de um animal cadastrado por ele no site "	<br>
@@ -85,7 +85,7 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Realizar o login no site 
 - 5°) Clicar na foto do animal que deseja editar os dados 
-- 6°) Preencher o formulário com os novos dados "	
+- 6°) Preencher o formulário com os novos dados "	<br>
 Critérios de Êxito 	"O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Ao realizar o login no site usuário deverá visualizar as fotos dos animais que foram cadastrados por ele no site 
 Ao realizar o login no site o usuário deverá ter a opção de editar os dados de um animal cadastrado por ele no site "	<br>
@@ -99,7 +99,7 @@ Passos
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de menu do site
-- 5°) Clicar no submenu Quem Somos"	
+- 5°) Clicar no submenu Quem Somos"	<br>
 Critérios de Êxito :	"Ao clicar no menu principal deverá ser habilitado o submenu Quem Somos
 Ao clicar no submenu Quem Somos o usuário deverá ser redirecionado para uma tela com as informações institucionais do site "	<br>
 Registro de Execucação:	Teste executado com sucesso	
@@ -127,7 +127,7 @@ Passos
 - 4°) Clicar no botão de login
 - 5°) Digitar usuário e senha de senha criados no momento do cadastro no site 
 - 6°) Clicar na opção Cadastrar Pet
-- 7°) Preencher o formulário com os dados e imagem do animal"	
+- 7°) Preencher o formulário com os dados e imagem do animal"	<br>
 Critérios de Êxito 	:"O botão de login deverá estar disponível no site 
 O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Após o login no site, deverá ser habilitado para o usuário a opção de Cadastrar Pet
@@ -142,7 +142,7 @@ Passos
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
-- 4°) Digitar uma palavra ou conteúdo no campo Pesquisar do site "	
+- 4°) Digitar uma palavra ou conteúdo no campo Pesquisar do site "	<br>
 Critérios de Êxito 	:"Na página inicial do site deverá constar o botão de pesquisar
 Ao digitar uma palavra ou conteúdo no campo de pesquisar o site deverá redirecionar o usuário para uma tela contendo o resultado da busca pela palavra ou contéudo digitado"	<br>
 Registro de Execucação:	Falha no teste: ao buscar uma palavra o usuário não foi redirecionado para uma tela com o resultado da pesquisa	
@@ -157,7 +157,7 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no atalho para acesso ao instagram 
 - 5°) Clicar no atalho para acesso ao facebook
-- 6°) Clicar no atalho para acesso ao twitter"	
+- 6°) Clicar no atalho para acesso ao twitter"	<br>
 Critérios de Êxito :	"O site deverá conter os atalhos para acesso ao instagram, facebook e twitter
 Ao clicar no ícone de atalho para o instagram, o usuário deverá ser redirecionado para a página do instagram do site <br>
 Ao clicar no ícone de atalho para o twitter, o usuário deverá ser redirecionado para a página do twitter do site <br>
@@ -171,7 +171,7 @@ Passos
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
-- 4°) Realizar o cadastro para recebimento da newsletter"	
+- 4°) Realizar o cadastro para recebimento da newsletter"	<br>
 Critérios de Êxito :	"O site deverá conter um campo para cadastramento da newsletter
 Deverá ser feita a validação se o e-mail digitado para cadastro da newsletter é um e-mail válido"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
