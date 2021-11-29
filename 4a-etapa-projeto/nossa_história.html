@@ -1,0 +1,145 @@
+<html lang="pt-br">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> Quem Somos | PetMatch</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="box" style="margin-left: 100px;"> <a href="index.html"><img src="img/logo1.png"
+                        style="width: 300px"></a> </div>
+            <div class="menu">
+                <ul>
+                    <li> <input name="search" placeholder="Pesquisar" type="search"> </li>
+                    <li> <button onclick="document.getElementById('id01').style.display='block'">Login</button>
+                    </li>
+                    <li class="dropdown"> <button class="dropbtn">Menu</button>
+                        <div class="dropdown-content"> <a href="nossa_história.html">Quem somos</a>
+                            <a href="queroadotar.html">Quero Adotar</a>
+                            <a href="cadastro_usuario.html">Cadastrar</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Incluído por Eduardo (alterações Naiara) -->
+        <div class="main_style">
+            <div class="pet_perfil" style="float: left;">
+                <img src="img/pets.png" width="100%" height="100%">
+            </div>
+            <div class="pet_perfil" style="float: right;">
+                <br><br>
+                <h1 class="sublinhado" style="font-size: 20pt;">Quem Somos</h1><br><br>
+                <div style=" float: right; margin-right: 10%; margin-left: 10%">
+                    <div class="quem_somos">
+                        <p style="text-indent: 40px;">
+                            Somos a PetMatch, um site construído por jovens desenvolvedores. Atuamos de maneira
+                            voluntária, pois acreditamos, como reforça a declaração universal do direito dos animais,
+                            que “Todos os
+                            animais nascem iguais diante da vida, e têm o mesmo direito a existência”. Todavia, enquanto
+                            cidadãos do mundo, é nosso dever garantir dignidade a todo animal que não dispõe de meios
+                            racionais para sobreviver em um mundo dominado por seres humanos, sendo dever destes cumprir
+                            com tais obrigações. Estamos localizados em Belo Horizonte, MG, nascemos em 2021, com o
+                            objetivo de contribuir ativamente no aprimoramento de mecanismos de adoção. A exposição de
+                            animais
+                            disponíveis para adoção é o principal objetivo do site, conectando animais e pessoas.
+                        </p>
+                        <p><br>
+                            <b class="sublinhado">Missão:</b> Conectar usuários que precisam divulgar uma adoção ou
+                            interessados em
+                            adotar um animal.
+                        </p>
+                        <p>
+                            <b class="sublinhado">Visão:</b> Promover a adoção e extinguir a comercialização e venda de
+                            animais.
+                        </p>
+                        <p>
+                            <b class="sublinhado">Valores:</b> Ética, responsabilidade social e ambiental.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- FIM da inclusão -->
+    </main>
+    <footer>
+        <div class="linha">
+            <div class="coluna rodape">
+                <div style="margin-top: 20px;" align="right"> <a
+                        href="https://www.facebook.com/profile.php?id=100074289276755" class="fa fa-facebook"></a> <a
+                        href="https://twitter.com/AdsProjeto" class="fa fa-twitter"></a> <a
+                        href="https://www.instagram.com/petmatchads/" class="fa fa-instagram"></a> <br>
+                    <br>
+                    <b>
+                        <font face="bahnschrift" color="white">Fale
+                            conosco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+                    </b>
+                </div>
+            </div>
+            <div class="coluna rodape">
+                <div style="margin-top: 20px;" align="center"> </div>
+            </div>
+            <div class="coluna rodape2">
+                <div style="margin-top: 20px;" align="center">
+                    <div style="margin-top: 20px;" align="center">
+                        <form class="form-inline" action="">
+                            <div style="text-align: center;"><br>
+                            </div>
+                            <div style="text-align: center;"><br>
+                                &nbsp;&nbsp; <label for="email"><b>
+                                        <font face="bahnschrift" size="3" color="white"> Receba nossa Newsletter </font>
+                                    </b></label> </div>
+                            <input id="email" placeholder="E-mail" name="email" type="email">
+                            <button type="submit">Inscrever</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="coluna rodape"> </div>
+        </div>
+    </footer>
+    <script>
+        // Get the modal
+        var modal = document.getElementById('id01');
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+    <!-- Código da Thamara reposicionado por Eduardo -->
+    <!-- Html que gera a tela de login -->
+    <div id="id01" class="modal">
+        <form class="modal-content animate" action="login.html" method="post">
+            <div class="imgcontainer"> <span onclick="document.getElementById('id01').style.display='none'"
+                    class="close" title="Close Modal">×</span> <img src="img/img_avatar2.png" alt="Avatar"
+                    class="avatar"> </div>
+            <div class="container"> <label for="uname"><b>Usuário</b></label> <input placeholder="Insira seu e-mail"
+                    name="uname" required="" type="text">
+                <label for="psw"><b>Senha</b></label> <input placeholder="Insira sua senha" name="psw" required=""
+                    type="password"> <button type="submit">Login</button>
+                <label> <input checked="checked" name="remember" type="checkbox">
+                    Lembrar login</label>
+            </div>
+            <div class="container" style="background-color:#f1f1f1"> <button type="button"
+                    onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancelar</button>
+                <span class="psw">Esqueceu a <a href="#">senha?</a></span>
+            </div>
+        </form>
+    </div>
+    <!-- Fim componente de tela de login -->
+    <!-- FIM do reposicionamento por Eduardo -->
+</body>
+
+</html>
