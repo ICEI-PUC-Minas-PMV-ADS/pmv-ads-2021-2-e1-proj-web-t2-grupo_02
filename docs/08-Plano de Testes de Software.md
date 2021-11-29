@@ -6,7 +6,7 @@ Apresente os cenários de testes utilizados na realização dos testes da sua ap
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
  
-### Caso de Teste	CT-01 Apresentar menu principal	
+### Caso de Teste //	CT-01 Apresentar menu principal	
 Requisitos Associados: RF-001 O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar animais para adoção, quem somos.	<br>
 Objetivo do Teste:	Validar que o menu principal e os submenus são exibidos corretamente na página principal do site 	
 Passos
@@ -17,8 +17,8 @@ Passos
 Critérios de Êxito : 	Ao clicar no botão do menu principal, deverão ser habilitados os seguintes submenus: quem somos, quero adotar e cadastrar. <br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
-### Caso de Teste	CT-02 Visualizar as imagens dos animais disponíveis para adoção	
-Requisitos Associados:	"RF-002 Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção."	<br>	
+### Caso de Teste //	CT-02 Visualizar as imagens dos animais disponíveis para adoção	
+Requisitos Associados:	RF-002 Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção."	<br>	
 Objetivo do Teste : Validar que ao clicar no submenu Quero Adotar, o usuário é redirecionado para uma tela onde ele consegui visualizar os animais disponíveis para adoção	
 Passos	
 - 1°) Acessar o navegador
@@ -30,7 +30,7 @@ Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habili
 Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para uma tela contendo as imagens dos animais "	<br>
 Registro de Execucação:	Teste executado com sucesso <br>	
 		
-### Caso de Teste	CT-03 Visualizar as informações do animal disponível para adoção	
+### Caso de Teste //	CT-03 Visualizar as informações do animal disponível para adoção	
 Requisitos Associados:	RF-003 Quando o usuário clicar na foto do animal disponível para adoção, o site deve redirecioná-lo para uma tela com as informações do animal.	<br>
 Objetivo do Teste:	Validar que ao clicar na foto do animal disponível para adoção, o usuário é redirecionado para uma tela contendo as informações do animal	
 Passos	
@@ -45,7 +45,7 @@ Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para u
 Ao cicar na foto do animal o usuário deverá ser redirecionado para uma tela contendo a imagem, a histórias e as informações de contato para adoção do animal"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
-### Caso de Teste	CT-04  Realizar o cadastro no site	
+### Caso de Teste //	CT-04  Realizar o cadastro no site	
 Requisitos Associados:	RF-004 Quando o usuário clicar no submenu Cadastrar, ele deverá ser redirecionado para uma tela para realização do cadastro no site. A tela deverá conter um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro deverá ser disponibilizado para o usuário a informação do login para acesso ao site.	<br>
 Objetivo do Teste:	Validar que ao clicar no menu de Cadastro o usuário é redirecionado para uma tela onde deverá preencher os seus dados para realização do seu cadastro no site 	<br>
 Passos	
@@ -62,7 +62,7 @@ Após o preenchimento do formulário o usuário deverá receber a informação d
 "	<br>
 Registro de Execucação:	Falha no teste: a informação do login não foi disponibilizada para o usuário 	
 		
-### Caso de Teste	CT-05  Exluir os dados de um animal cadastrado no site	
+### Caso de Teste //	CT-05  Exluir os dados de um animal cadastrado no site	
 Requisitos Associados:	RF - 005 O site deve ter a opção de excluir/editar os dados dos animais cadastrados no site <br>	
 Objetivo do Teste:	Validar que é possível excluir  os dados de um animal que esteja cadastrado no site 	<br>
 Passos	
@@ -76,7 +76,7 @@ Ao realizar o login no site o usuário deverá visualizar as fotos dos animais q
 Ao realizar o login no site o usuário deverá ter a opção de excluir os dados de um animal cadastrado por ele no site "	<br>
 Registro de Execucação:	Falha no teste: ao clicar na opção de excluir a foto do animal não é excluida 	<br>
 		
-### Caso de Teste	CT-06  Editar os dados de um animal cadastrado no site	
+### Caso de Teste //	CT-06  Editar os dados de um animal cadastrado no site	
 Requisitos Associados:	RF - 005 O site deve ter a opção de excluir/editar os dados dos animais cadastrados no site	<br>
 Objetivo do Teste:	Validar que é possível editar os dados de um animal que esteja cadastrado no site 	<br>
 Passos	
@@ -91,7 +91,7 @@ Ao realizar o login no site usuário deverá visualizar as fotos dos animais que
 Ao realizar o login no site o usuário deverá ter a opção de editar os dados de um animal cadastrado por ele no site "	<br>
 Registro de Execucação:	Falha no teste: ao clicar na imagem do animal o usuário não foi redirecionado para a tela de edição dos dados do animal	
 		
-### Caso de Teste	CT-07  Visualizar as informações institucionais do site 	
+### Caso de Teste //	CT-07  Visualizar as informações institucionais do site 	
 Requisitos Associados:	RF - 006 Quando o usuário clicar no submenu Quem Somos, ele deverá ser redirecionado para uma página contendo algumas informações instituições da empresa criadora e mantedora do site 	<br>
 Objetivo do Teste:	Validar que ao clicar no submenu Quem Somos o usuário é redirecionado para uma tela contendo as informações institucionais do site 	<br>
 Passos	
@@ -104,7 +104,7 @@ Critérios de Êxito :	"Ao clicar no menu principal deverá ser habilitado o sub
 Ao clicar no submenu Quem Somos o usuário deverá ser redirecionado para uma tela com as informações institucionais do site "	<br>
 Registro de Execucação:	Teste executado com sucesso	
 		
-### Caso de Teste	CT-08  Realizar login no site 	
+### Caso de Teste //	CT-08  Realizar login no site 	
 Requisitos Associados:	RF - 007 O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada no site <br>	
 Objetivo do Teste:	Validar que um usuário já cadastrado no site consegue realizar o login no site 	<br>
 Passos	
@@ -117,7 +117,7 @@ Critérios de Êxito :	"O botão de login deverá estar disponível no site
 O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site"<br>	
 Registro de Execucação:	Teste executado com sucesso	
 		
-### Caso de Teste	CT-09 Cadastrar animal no site 	
+### Caso de Teste //	CT-09 Cadastrar animal no site 	
 Requisitos Associados:	RF - 008 Quando o usuário estiver logado no site, deverá ser apresentado para ele a opção de Cadastrar Pet. E quando o usuário clciar nesta opção, ele deverá ser redirecionado para uma tela contendo um formulário com os seguintes campos: nome, gênero do animal, descrição do animal, tipo, situação, peso, campo para upload da imagem do animal. <br>	
 Objetivo do Teste:	Validar que ao logar no site é possível realizar o cadastro de um animal <br>	
 Passos	
@@ -135,7 +135,7 @@ Ao clicar na opção Cadastrar Pet, o usuário deverá ser redirecionado para um
 Todos os campos do formulário deverão ser de preenchimento obrigatório"	<br>
 Registro de Execucação:	Teste executado com sucesso	
 		
-### Caso de Teste	CT-10 Realizar uma pesquisa no site 	
+### Caso de Teste //	CT-10 Realizar uma pesquisa no site 	
 Requisitos Associados:	RF - 009 O site deverá ter um campo para que o usuário possa pesquisar uma determinada palavra ou conteúdo no site <br>	
 Objetivo do Teste:	Validar que o site possui um campo de pesquisa e que ao digitar uma palavra ou conteúdo neste campo é feita uma busca dentro do site 	<br>
 Passos	
@@ -148,7 +148,7 @@ Ao digitar uma palavra ou conteúdo no campo de pesquisar o site deverá redirec
 Registro de Execucação:	Falha no teste: ao buscar uma palavra o usuário não foi redirecionado para uma tela com o resultado da pesquisa	
 		
 		
-### Caso de Teste	CT-11 Acessar as redes sociais instagram, twitter e facebook do site 	
+### Caso de Teste //	CT-11 Acessar as redes sociais instagram, twitter e facebook do site 	
 Requisitos Associados:	RF - 010 O site deverá ter um atalho para acesso as redes sociais twitter, instragram e facebook do site <br>	
 Objetivo do Teste:	Validar que o site possui um atalho para acesso ao twitter, instagram e facebook e que ao clicar no atalho o usuário é redirecionado para a rede social corretamente 	<br>
 Passos	
@@ -164,7 +164,7 @@ Ao clicar no ícone de atalho para o twitter, o usuário deverá ser redireciona
 Ao clicar no ícone de atalho para o facebook, o usuário deverá ser redirecionado para a página do facebook do site"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
-### Caso de Teste	CT-12 Cadastro para recebimento da Newsletter	
+### Caso de Teste //	CT-12 Cadastro para recebimento da Newsletter	
 Requisitos Associados:	RF - 011 O site deverá conter um campo para cadastro para recebimento da  newsletter <br>	
 Objetivo do Teste:	Validar que o site possui um campo para cadastro para recebimento da newsletter	<br>
 Passos	
