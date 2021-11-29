@@ -9,7 +9,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 ### Caso de Teste	CT-01 Apresentar menu principal	
 Requisitos Associados: RF-001 O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar animais para adoção, quem somos.	
 Objetivo do Teste	Validar que o menu principal e os submenus são exibidos corretamente na página principal do site 	
-Passos	"
+Passos
 - 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
@@ -20,7 +20,8 @@ Registro de Execucação:	Teste executado com sucesso
 ### Caso de Teste	CT-02 Visualizar as imagens dos animais disponíveis para adoção	
 Requisitos Associados	"RF-002 Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção.	"	
 Objetivo do Teste	Validar que ao clicar no submenu Quero Adotar, o usuário é redirecionado para uma tela onde ele consegui visualizar os animais disponíveis para adoção	
-Passos	"1°) Acessar o navegador
+Passos	
+- 1°) Acessar o navegador
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de menu do site 
