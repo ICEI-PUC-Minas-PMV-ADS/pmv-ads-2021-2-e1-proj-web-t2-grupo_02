@@ -1,7 +1,5 @@
 # Registro de Testes de Software
 
-# Plano de Testes de Software
-
  
 ### Caso de Teste //	CT-01 Apresentar menu principal	
 Requisitos Associados: RF-001 O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar animais para adoção, quem somos.	<br>
