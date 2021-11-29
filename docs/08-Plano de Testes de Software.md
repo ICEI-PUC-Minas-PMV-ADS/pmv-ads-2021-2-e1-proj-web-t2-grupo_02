@@ -40,9 +40,9 @@ Passos
 - 4°) Clicar no botão de menu do site 
 - 5°) Clicar no submenu Quero Adotar
 - 6°) Clicar na foto do animal disponível para adoção"	<br>
-Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habilitado o submenu Quero Adotar 
+Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habilitado o submenu Quero Adotar
 Ao selecionar o submenu Quero Adotar o usuário deverá ser redirecionado para uma tela contendo as imagens dos animais 
-Ao cicar na foto do animal o usuário deverá ser redirecionado para uma tela contendo a imagem, a histórias e as informações de contato para adoção do animal"	
+Ao cicar na foto do animal o usuário deverá ser redirecionado para uma tela contendo a imagem, a histórias e as informações de contato para adoção do animal"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
 ### Caso de Teste	CT-04  Realizar o cadastro no site	
@@ -59,7 +59,7 @@ Critérios de Êxito :	"Ao clicar no botão do menu principal deverá ser habili
 Ao selecionar o submenu Cadastrar o usuário deverá ser redirecionado para uma tela contendo os seguintes campos para preenchimento: nome, telefone, data de nascimento, e-mail, endeereço, gênero, complemento, ocupação e senha.
 O usuário não deverá conseguir prosseguir com o cadastro no site se um dos campos do formulário não for preenchido
 Após o preenchimento do formulário o usuário deverá receber a informação do login para acesso ao site
-"	
+"	<br>
 Registro de Execucação:	Falha no teste: a informação do login não foi disponibilizada para o usuário 	
 		
 ### Caso de Teste	CT-05  Exluir os dados de um animal cadastrado no site	
@@ -73,8 +73,8 @@ Passos
 - 5°) Clicar na opção excluir na foto do animal desejado"	
 Critérios de Êxito 	"O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Ao realizar o login no site o usuário deverá visualizar as fotos dos animais que foram cadastrados por ele no site 
-Ao realizar o login no site o usuário deverá ter a opção de excluir os dados de um animal cadastrado por ele no site "	
-Registro de Execucação:	Falha no teste: ao clicar na opção de excluir a foto do animal não é excluida 	
+Ao realizar o login no site o usuário deverá ter a opção de excluir os dados de um animal cadastrado por ele no site "	<br>
+Registro de Execucação:	Falha no teste: ao clicar na opção de excluir a foto do animal não é excluida 	<br>
 		
 ### Caso de Teste	CT-06  Editar os dados de um animal cadastrado no site	
 Requisitos Associados	RF - 005 O site deve ter a opção de excluir/editar os dados dos animais cadastrados no site	
@@ -88,7 +88,7 @@ Passos
 - 6°) Preencher o formulário com os novos dados "	
 Critérios de Êxito 	"O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Ao realizar o login no site usuário deverá visualizar as fotos dos animais que foram cadastrados por ele no site 
-Ao realizar o login no site o usuário deverá ter a opção de editar os dados de um animal cadastrado por ele no site "	
+Ao realizar o login no site o usuário deverá ter a opção de editar os dados de um animal cadastrado por ele no site "	<br>
 Registro de Execucação:	Falha no teste: ao clicar na imagem do animal o usuário não foi redirecionado para a tela de edição dos dados do animal	
 		
 ### Caso de Teste	CT-07  Visualizar as informações institucionais do site 	
@@ -101,7 +101,7 @@ Passos
 - 4°) Clicar no botão de menu do site
 - 5°) Clicar no submenu Quem Somos"	
 Critérios de Êxito :	"Ao clicar no menu principal deverá ser habilitado o submenu Quem Somos
-Ao clicar no submenu Quem Somos o usuário deverá ser redirecionado para uma tela com as informações institucionais do site "	
+Ao clicar no submenu Quem Somos o usuário deverá ser redirecionado para uma tela com as informações institucionais do site "	<br>
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste	CT-08  Realizar login no site 	
@@ -112,9 +112,9 @@ Passos
 - 2°) Inserir o endereço do site 
 - 3°) Visualizar a página inicial do site 
 - 4°) Clicar no botão de login
-- 5°) Digitar usuário e senha de senha criados no momento do cadastro no site "	
+- 5°) Digitar usuário e senha de senha criados no momento do cadastro no site "	<br>
 Critérios de Êxito :	"O botão de login deverá estar disponível no site 
-O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site"	
+O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site"<br>	
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste	CT-09 Cadastrar animal no site 	
@@ -132,7 +132,7 @@ Critérios de Êxito 	:"O botão de login deverá estar disponível no site
 O  usuário deve conseguir realizar o login com o usuário e senha criados no momento do cadastro do site
 Após o login no site, deverá ser habilitado para o usuário a opção de Cadastrar Pet
 Ao clicar na opção Cadastrar Pet, o usuário deverá ser redirecionado para uma tela contendo os seguintes campos: nome, gênero do animal, descrição do animal, tipo, situação, peso, situação e campo para upload da imagem do animal.
-Todos os campos do formulário deverão ser de preenchimento obrigatório"	
+Todos os campos do formulário deverão ser de preenchimento obrigatório"	<br>
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste	CT-10 Realizar uma pesquisa no site 	
@@ -144,7 +144,7 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Digitar uma palavra ou conteúdo no campo Pesquisar do site "	
 Critérios de Êxito 	:"Na página inicial do site deverá constar o botão de pesquisar
-Ao digitar uma palavra ou conteúdo no campo de pesquisar o site deverá redirecionar o usuário para uma tela contendo o resultado da busca pela palavra ou contéudo digitado"	
+Ao digitar uma palavra ou conteúdo no campo de pesquisar o site deverá redirecionar o usuário para uma tela contendo o resultado da busca pela palavra ou contéudo digitado"	<br>
 Registro de Execucação:	Falha no teste: ao buscar uma palavra o usuário não foi redirecionado para uma tela com o resultado da pesquisa	
 		
 		
@@ -159,9 +159,9 @@ Passos
 - 5°) Clicar no atalho para acesso ao facebook
 - 6°) Clicar no atalho para acesso ao twitter"	
 Critérios de Êxito :	"O site deverá conter os atalhos para acesso ao instagram, facebook e twitter
-Ao clicar no ícone de atalho para o instagram, o usuário deverá ser redirecionado para a página do instagram do site
-Ao clicar no ícone de atalho para o twitter, o usuário deverá ser redirecionado para a página do twitter do site
-Ao clicar no ícone de atalho para o facebook, o usuário deverá ser redirecionado para a página do facebook do site"	
+Ao clicar no ícone de atalho para o instagram, o usuário deverá ser redirecionado para a página do instagram do site <br>
+Ao clicar no ícone de atalho para o twitter, o usuário deverá ser redirecionado para a página do twitter do site <br>
+Ao clicar no ícone de atalho para o facebook, o usuário deverá ser redirecionado para a página do facebook do site"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
 ### Caso de Teste	CT-12 Cadastro para recebimento da Newsletter	
@@ -173,6 +173,6 @@ Passos
 - 3°) Visualizar a página inicial do site 
 - 4°) Realizar o cadastro para recebimento da newsletter"	
 Critérios de Êxito :	"O site deverá conter um campo para cadastramento da newsletter
-Deverá ser feita a validação se o e-mail digitado para cadastro da newsletter é um e-mail válido"	
+Deverá ser feita a validação se o e-mail digitado para cadastro da newsletter é um e-mail válido"	<br>
 Registro de Execucação:	Teste executado com sucesso 	
 		
