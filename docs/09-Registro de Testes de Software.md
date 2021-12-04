@@ -72,7 +72,7 @@ Ao realizar o login no site o usuário deverá ter a opção de excluir os dados
 Registro de Execucação:	Falha no teste: ao clicar na opção de excluir a foto do animal não é excluida 	<br>
 		
 ### Caso de Teste //	CT-06  Editar os dados de um animal cadastrado no site	
-Requisitos Associados:	RF - 005 O site deve ter a opção de excluir/editar os dados dos animais cadastrados no site	<br>
+Requisitos Associados:	RF - 006 O site deve ter a opção de excluir/editar os dados dos animais cadastrados no site	<br>
 Objetivo do Teste:	Validar que é possível editar os dados de um animal que esteja cadastrado no site 	<br>
 Passos	
 - 1°) Acessar o navegador
@@ -87,7 +87,7 @@ Ao realizar o login no site o usuário deverá ter a opção de editar os dados 
 Registro de Execucação:	Falha no teste: ao clicar na imagem do animal o usuário não foi redirecionado para a tela de edição dos dados do animal	
 		
 ### Caso de Teste //	CT-07  Visualizar as informações institucionais do site 	
-Requisitos Associados:	RF - 006 Quando o usuário clicar no submenu Quem Somos, ele deverá ser redirecionado para uma página contendo algumas informações instituições da empresa criadora e mantedora do site 	<br>
+Requisitos Associados:	RF - 007 Quando o usuário clicar no submenu Quem Somos, ele deverá ser redirecionado para uma página contendo algumas informações instituições da empresa criadora e mantedora do site 	<br>
 Objetivo do Teste:	Validar que ao clicar no submenu Quem Somos o usuário é redirecionado para uma tela contendo as informações institucionais do site 	<br>
 Passos	
 - 1°) Acessar o navegador
@@ -100,7 +100,7 @@ Ao clicar no submenu Quem Somos o usuário deverá ser redirecionado para uma te
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste //	CT-08  Realizar login no site 	
-Requisitos Associados:	RF - 007 O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada no site <br>	
+Requisitos Associados:	RF - 008 O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada no site <br>	
 Objetivo do Teste:	Validar que um usuário já cadastrado no site consegue realizar o login no site 	<br>
 Passos	
 - 1°) Acessar o navegador
@@ -113,7 +113,7 @@ O  usuário deve conseguir realizar o login com o usuário e senha criados no mo
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste //	CT-09 Cadastrar animal no site 	
-Requisitos Associados:	RF - 008 Quando o usuário estiver logado no site, deverá ser apresentado para ele a opção de Cadastrar Pet. E quando o usuário clciar nesta opção, ele deverá ser redirecionado para uma tela contendo um formulário com os seguintes campos: nome, gênero do animal, descrição do animal, tipo, situação, peso, campo para upload da imagem do animal. <br>	
+Requisitos Associados:	RF - 009 Quando o usuário estiver logado no site, deverá ser apresentado para ele a opção de Cadastrar Pet. E quando o usuário clciar nesta opção, ele deverá ser redirecionado para uma tela contendo um formulário com os seguintes campos: nome, gênero do animal, descrição do animal, tipo, situação, peso, campo para upload da imagem do animal. <br>	
 Objetivo do Teste:	Validar que ao logar no site é possível realizar o cadastro de um animal <br>	
 Passos	
 - 1°) Acessar o navegador
@@ -131,7 +131,7 @@ Todos os campos do formulário deverão ser de preenchimento obrigatório"	<br>
 Registro de Execucação:	Teste executado com sucesso	
 		
 ### Caso de Teste //	CT-10 Realizar uma pesquisa no site 	
-Requisitos Associados:	RF - 009 O site deverá ter um campo para que o usuário possa pesquisar uma determinada palavra ou conteúdo no site <br>	
+Requisitos Associados:	RF - 0010 O site deverá ter um campo para que o usuário possa pesquisar uma determinada palavra ou conteúdo no site <br>	
 Objetivo do Teste:	Validar que o site possui um campo de pesquisa e que ao digitar uma palavra ou conteúdo neste campo é feita uma busca dentro do site 	<br>
 Passos	
 - 1°) Acessar o navegador
@@ -144,7 +144,7 @@ Registro de Execucação:	Falha no teste: ao buscar uma palavra o usuário não 
 		
 		
 ### Caso de Teste //	CT-11 Acessar as redes sociais instagram, twitter e facebook do site 	
-Requisitos Associados:	RF - 010 O site deverá ter um atalho para acesso as redes sociais twitter, instragram e facebook do site <br>	
+Requisitos Associados:	RF - 011 O site deverá ter um atalho para acesso as redes sociais twitter, instragram e facebook do site <br>	
 Objetivo do Teste:	Validar que o site possui um atalho para acesso ao twitter, instagram e facebook e que ao clicar no atalho o usuário é redirecionado para a rede social corretamente 	<br>
 Passos	
 - 1°) Acessar o navegador
@@ -160,7 +160,7 @@ Ao clicar no ícone de atalho para o facebook, o usuário deverá ser redirecion
 Registro de Execucação:	Teste executado com sucesso 	
 		
 ### Caso de Teste //	CT-12 Cadastro para recebimento da Newsletter	
-Requisitos Associados:	RF - 011 O site deverá conter um campo para cadastro para recebimento da  newsletter <br>	
+Requisitos Associados:	RF - 012 O site deverá conter um campo para cadastro para recebimento da  newsletter <br>	
 Objetivo do Teste:	Validar que o site possui um campo para cadastro para recebimento da newsletter	<br>
 Passos	
 - 1°) Acessar o navegador
