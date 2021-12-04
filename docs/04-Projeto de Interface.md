@@ -50,10 +50,10 @@ A tela de Cadastro apresenta os campos a serem preenchidos para se cadastrar. Es
 ![CADASTRO](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)
 
 
-### Tela - Entrar em contato
-Esta é a tela onde as informações da ONG (ou tutor) aparecem.
+### Tela - Animais 
+Esta é a tela onde estão as fotos dos animais disponíveis para adoção. 
 
-![ENTRAR EM CONT](https://user-images.githubusercontent.com/83349744/135906716-702eab09-7ee8-44dc-9cf1-c08972501e11.png)
+![ENTRAR EM CONT](https://lh3.googleusercontent.com/cPNSTJ-vT-RUU-dcNwB9j7GLBJT-RXIFIKuwNu0zhYLin1NC-dN-TysRFuFdcLft5I-Tvb1jTcOY2Xr1YXUG7Zyh46ds2XlgjwHzif13wlXJRDLPY6uW1lYB2zZGvao2Qqx7cM0QCxBkmKCM3OLCZTDS4ZgtWX0CKFTS0_VAH9ZzTVnNhKiMmuLD_6Ft-C2ransmR6YeKeCHDDX3axYdXLIh_yAWhkX8olM5nupj0claYW8D49gtkw65sAt1Nmngvw67nwPAmQcXjVUQZ_S-lB36DTpd-7Ru2snVFU_Yw4msPNgj1f1c3LJKjowg5PJU6Q4Kfv-y5sotUE-feyVdmjnLoOYAlTuYELpCK4xw1YgGGENzkb2jhxxera5uRzX5F-i1MP8Q0Ij5hLb1xV6owyV1OAv3yr5B3OFXhhsYIsiZ2lqwQa7p4QQzFv17xnkHQqSvTLrJ_tGqoKqtWQ_Gt1wxbUHeZWmR9nV1VoXxCdu3qSLy-XE931JFPq6zmwbesKA53Fg8zGFdGWES4fsUWkuRClfvsLOAeA7uRai7opvmzyWeG5LRvR5bPcpSTsB_v_OOe2kIyU460yE--XUTDIbi4ZiOzDlHCUt1jutWpV2HVpyrHjCSAdiLV91vuI2ixOjqNdL91u9Eu0D6SdxOULQF7B74Je5uxgcL0pupBGUkCe8pQ6AWjNWl4U4i-QZHgXcQtyEvjyJxFzEmYLFhaT0V=w1635-h888-no?authuser=0)
 
 
 ### Tela - Ficha de Adoção
