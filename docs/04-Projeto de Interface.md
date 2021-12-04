@@ -91,8 +91,6 @@ Esta seção contém um formulário para ser preenchido caso o usuário queira d
 
 ![LAR TEMP](https://user-images.githubusercontent.com/83349744/135911762-312d152e-c793-4397-a33f-d863e2ea5aef.png)
 
-![LAR TEMP2](https://user-images.githubusercontent.com/83349744/135912254-37c8b89f-40e9-43d4-a1bc-6ab9caead752.png)
-
 ### Tela - Parabéns (Lar temporário)
 Esta tela aparece ao final do preenchimento do cadastro de lar temporário. Com ele um aviso de que recebrá um email de confirmação, e com instruções para os próximos passos caso esteja apto. Na sequência, um botão para voltar a Tela inicial.
 
