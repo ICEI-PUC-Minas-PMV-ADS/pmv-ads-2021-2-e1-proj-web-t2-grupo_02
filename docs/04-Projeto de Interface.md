@@ -8,16 +8,16 @@ Neste link pode ver as telas e seguir os fluxos - https://xd.adobe.com/view/cdbe
 
 <h3>FLUXOS DO SITE</h3>
 
-Assim que entra na plataforma, ele é apresentado à <b>tela inicial</b>
-(tela 1) que possui as opções de <b>quem somos<b>quero adotar<b>cadastrar</b>.
+Assim que entra na plataforma, o usuário é apresentado à tela inicial
+(tela 1) que possui as opções de quem somos, quero adotar, cadastrar.
 
-Caso ele opte por seguir pelo primeiro caminho <b>(quem somos)</b>, uma tela é aberta com as informações do site (Tela 3), onde consta a história do projeto, nossa missão, visão e valores. 
+Caso ele opte por seguir pelo primeiro caminho "Quem Somos", uma tela é aberta com as informações do site (Tela 3), onde consta a história do projeto, nossa missão, visão e valores. 
 
-Clicando em <b>(quero adotar)</b>, é aberto uma tela (tela 5) com as imagens dos animais disponíveis para adoção.
+Clicando em "Quero Adotar", é aberto uma tela (tela 5) com as imagens dos animais disponíveis para adoção.
 
-Quando clicar no submenu <b>(cadastrar)</b>, ele é redirecionado para uma tela (tela 7) para realização do cadastro no site. A tela contém um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro é disponibilizado para o usuário a informação do login para acesso ao site.
+Quando clicar no submenu "Cadastrar", ele é redirecionado para uma tela (tela 7) para realização do cadastro no site. A tela contém um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro é disponibilizado para o usuário a informação do login para acesso ao site.
 
-Quando clicar em <b>(Loguin)</b> na tela inicial, o usuário entrará numa conta já registrada no site.
+Quando clicar em "Loguin" na tela inicial, o usuário entrará numa conta já registrada no site.
   
 Quando o usuário clicar na foto do animal (tela 5) disponível para adoção, o site irá redirecioná-lo para uma tela com as informações do animal (tela 6).
 
