@@ -42,56 +42,15 @@ O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newslett
 ### Tela - Quem somos
 Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
 
-![NOSSA HISTORIA](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
+![QUEM SOMOS](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
-### Tela - Cadastro
-A tela de Cadastro apresenta os campos a serem preenchidos para se cadastrar. Esses campos contam com nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha.
-
-![CADASTRO](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)
-
-
-### Tela - Animais 
+### Tela - Quero Adotar
 Esta é a tela onde estão as fotos dos animais disponíveis para adoção. 
-
-![ENTRAR EM CONT](https://lh3.googleusercontent.com/cPNSTJ-vT-RUU-dcNwB9j7GLBJT-RXIFIKuwNu0zhYLin1NC-dN-TysRFuFdcLft5I-Tvb1jTcOY2Xr1YXUG7Zyh46ds2XlgjwHzif13wlXJRDLPY6uW1lYB2zZGvao2Qqx7cM0QCxBkmKCM3OLCZTDS4ZgtWX0CKFTS0_VAH9ZzTVnNhKiMmuLD_6Ft-C2ransmR6YeKeCHDDX3axYdXLIh_yAWhkX8olM5nupj0claYW8D49gtkw65sAt1Nmngvw67nwPAmQcXjVUQZ_S-lB36DTpd-7Ru2snVFU_Yw4msPNgj1f1c3LJKjowg5PJU6Q4Kfv-y5sotUE-feyVdmjnLoOYAlTuYELpCK4xw1YgGGENzkb2jhxxera5uRzX5F-i1MP8Q0Ij5hLb1xV6owyV1OAv3yr5B3OFXhhsYIsiZ2lqwQa7p4QQzFv17xnkHQqSvTLrJ_tGqoKqtWQ_Gt1wxbUHeZWmR9nV1VoXxCdu3qSLy-XE931JFPq6zmwbesKA53Fg8zGFdGWES4fsUWkuRClfvsLOAeA7uRai7opvmzyWeG5LRvR5bPcpSTsB_v_OOe2kIyU460yE--XUTDIbi4ZiOzDlHCUt1jutWpV2HVpyrHjCSAdiLV91vuI2ixOjqNdL91u9Eu0D6SdxOULQF7B74Je5uxgcL0pupBGUkCe8pQ6AWjNWl4U4i-QZHgXcQtyEvjyJxFzEmYLFhaT0V=w1635-h888-no?authuser=0)
-
-
-### Tela - Ficha de Adoção
-Caso o usuário tenha dado "Match!" no animal, ele será redirecionado a tela de ficha de adoção. Nesta tela existirá um termo de adoção, onde o usuário poderá ler o termo e terá de declarar que está de acordo com estes, seguindo com o processo de adoção, onde assim terá de esperar a resposta do responsável pelo pet.
-
-![FICHA DE ADOÇÃO](https://user-images.githubusercontent.com/83349744/135920827-31be4db9-dca1-4721-82ba-85bfdf065f7c.png)
-
-
-
-### Tela - Status de adoção
-Ao clicar na foto do animal poderá ver o andamento de seu processo de adoção. Terá a opção de entrar em contato na tela, para caso tenha alguma dúvida ou problema, poderá contatar a ONG (ou tutor) em questão.
-
-![STATUS](https://user-images.githubusercontent.com/83349744/135909436-6a21eb2e-a150-4cbb-9228-0c0a804df2bc.png)
-
-### Tela - Quero adotar
-Se o usuário decidir ir direto em Quero Adotar, esta tela será apresentada. Ela pedirá que se cadastre no site, logo o botão de Cadastrar estará na tela. É necessário que o usuário seja cadastrado para dar continuidade ao processo de adoção, que foi apresentado nas telas anteriores e no fluxo de usuário.
 
 ![QUERO ADOTAR](https://user-images.githubusercontent.com/83349744/135913470-e65f3c38-a840-4dba-a8f1-a1b54efe483c.png)
 
-### Tela - Cadastrar animais
-Ao escolher a categoria "Cadastrar animais" no Menu, será enviado a este formulário em nossa plataforma, onde poderá preencher com as informações do animal em questão. 
 
-![CADASTRAR ANIMAIS](https://user-images.githubusercontent.com/83349744/135910789-25061f4d-27c6-4a9f-8797-63894d464f49.png)
 
-### Tela - Forneça um Lar temporário
-Esta seção contém um formulário para ser preenchido caso o usuário queira dar lar temporário aos animais da plataforma. Neste caso, possui duas telas pois uma é continuidade do formulário da anterior. É importante preencher estes campos para ser qualificado como um protetor apto à lar temporário.
-
-![LAR TEMP](https://user-images.githubusercontent.com/83349744/135911762-312d152e-c793-4397-a33f-d863e2ea5aef.png)
-
-### Tela - Parabéns (Lar temporário)
-Esta tela aparece ao final do preenchimento do cadastro de lar temporário. Com ele um aviso de que recebrá um email de confirmação, e com instruções para os próximos passos caso esteja apto. Na sequência, um botão para voltar a Tela inicial.
-
-![LAR TEMP3](https://user-images.githubusercontent.com/83349744/135912793-665910a3-d905-4711-9db4-30b83a7d9194.png)
-
-### Tela - Informações 
-Quando selecionada a opção no menu de "Informações", uma tela será apresentada onde contém uma imagem de um pet (não necessariamente em adoção na plataforma) e informações a mais sobre a plataforma PetMatch.
-
-![INFORMAÇÕES](https://user-images.githubusercontent.com/83349744/135914453-f15688d6-5d77-47e2-9468-d9020c876121.png)
 
 
 
