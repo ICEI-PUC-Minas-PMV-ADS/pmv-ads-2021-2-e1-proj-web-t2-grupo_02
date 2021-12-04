@@ -31,7 +31,7 @@ Cabeçalho - local onde são dispostos o logo, login e navegação principal do 
 Conteúdo - apresenta o conteúdo da tela em questão;
 Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 
-### Tela - Inicial ou Home-page
+## Tela - Inicial ou Home-page
 A tela de home-page mostra a imagem de um animal. Apresenta um componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
 Um menu pra que vá direto ao objetivo do usuário em questão;
 Componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
@@ -39,17 +39,17 @@ O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newslett
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
   
-### Tela - Quem somos
+## Tela - Quem somos
 Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
 
 ![QUEM SOMOS](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
-### Tela - Quero Adotar
+## Tela - Quero Adotar
 Esta é a tela onde estão as fotos dos animais disponíveis para adoção. 
 
 ![QUERO ADOTAR](https://user-images.githubusercontent.com/83349744/135913470-e65f3c38-a840-4dba-a8f1-a1b54efe483c.png)
   
-### Tela - Cadastrar 
+## Tela - Cadastrar 
   
 A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado na plataforma. Esses campos contam com nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. Quando completado, deve enviar o formulário.  
   
