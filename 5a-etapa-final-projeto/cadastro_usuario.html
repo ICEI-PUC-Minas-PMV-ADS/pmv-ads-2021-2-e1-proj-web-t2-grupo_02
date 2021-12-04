@@ -1,0 +1,211 @@
+<html lang="pt-br">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Cadastro de Usuário | PetMatch</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="box" style="margin-left: 100px;"> <a href="index.html"><img src="img/logo1.png"
+                        style="width: 300px"></a> </div>
+            <div class="menu">
+                <ul style="margin: 0;">
+                    <li>
+                        <input type="search" id="myInput" onkeyup="myFunction()" placeholder="Pesquisar">
+                        <ul id="myUL">
+                            <li style="display:none;" ;><a href="nossa_história.html">Informações</a></li>
+                            <li style="display:none;"><a href="queroadotar.html">Pets</a></li>
+                            <li style="display:none;"><a href="queroadotar.html">Adotar</a></li> <br>
+                            <li style="display:none;"><a href="queroadotar.html">Cães</a></li>
+                            <li style="display:none;"><a href="queroadotar.html">Gatos</a></li>
+                            <li style="display:none;"><a href="queroadotar.html">Coelhos</a></li><br>
+                            <li style="display:none;"><a href="cadastro_usuario.html">Castastro</a></li>
+                            <li style="display:none;"><a href="login.html">Usuário</a></li>
+                            <li style="display:none;"><a href="login.html">Perfil</a></li><br>
+                            <li style="display:none;"><a href="login.html">Cadastrar Animal</a></li>
+                            <li style="display:none;"><a href="pet_usuario1_info.html">Mel cadela</a></li>
+                        </ul>
+                    <li> <button onclick="document.getElementById('id01').style.display='block'"
+                            style="margin-top: 20;">Login</button>
+                    </li>
+                    <li class="dropdown"> <button class="dropbtn" style="margin-top: 20;">Menu</button>
+                        <div class="dropdown-content"> <a href="nossa_história.html">Quem somos</a>
+                            <a href="queroadotar.html">Quero Adotar</a>
+                            <a href="cadastro_usuario.html">Cadastrar</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="main_style">
+            <br>
+            <div>
+                <h1 style="font-size: 28pt;">Cadastro de Usuário</h1>
+                <br><br>
+                <div class="form_usuario" style="float: left;">
+                    Nome:<br><input type="text" required name="nome_usuario" placeholder="Nome:"
+                        style="width: 65%; height: 8%; border: 0px;">
+                    <br>E-mail: (Usuário)<br><input type="email" required name="email_usuario"
+                        placeholder="E-mail: (Utilize para Login)."
+                        style="width: 65%; height: 8%; border: 0px;">
+                    <br>Crie uma Senha:<br><input type="password" required name="senha_usuario" maxlength="8"
+                        placeholder="Senha de 6 caracteres" style="width: 40%; height: 8%; border: 0px;">
+                </div>
+                <div class="form_usuario" style="float: right;">
+                    Data de Nascimento:<br><input type="date" required name="nascimento_usuario"
+                        placeholder="Data de nascimento:" style="width: 40%; height: 8%; border: 0px;">
+                    <br>Gênero:<br>
+                    <select required name="genero"
+                        style="width: 40%; height: 8%; border: 0px; border-radius: 8px; margin: 7px 0px;">
+                        <option value="">Selecione</option>
+                        <option value="masculino">Masculino</option>
+                        <option value="feminino">Feminino</option>
+                        <option value="outros">Outros</option>
+                        <option value="nao_declarar">Não declarar</option>
+                    </select>
+                    <br>Ocupação:<br><input type="text" required name="profissao_usuario" placeholder="Ocupação:"
+                        style="width: 40%; height: 8%; border: 0px;">
+                </div>
+                <div class="form_usuario" style="float: right;">
+                    Telefone:<br><input type="text" required name="telefone_usuario" placeholder="Telefone:"
+                        style="width: 40%; height: 8%; border: 0px;">
+                    <br>Endereço:<br><input type="text" required name="endereco_usuario" placeholder="Endereço:"
+                        style="width: 75%; height: 8%; border: 0px;">
+                    <br>Complemento:<br><input type="text" required name="endereco_usuario_comp"
+                        placeholder="Complemento:" style="width: 75%; height: 8%; border: 0px; ">
+                    <div>
+                        <br><br><br><input type="button" class="form-submit-button" value="ENVIAR"
+                            style="cursor: pointer;" onclick="alert('Cadastro finalizado. Utilize seu Email e Senha para fazer login.'); 
+                            document.getElementById('id01').style.display='block'">
+                        <!-- Link do botão segue para tela de fazer login -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="linha">
+            <div class="coluna rodape">
+                <div style="margin-top: 20px;" align="right"> <a
+                        href="https://www.facebook.com/profile.php?id=100074289276755" class="fa fa-facebook"></a> <a
+                        href="https://twitter.com/AdsProjeto" class="fa fa-twitter"></a> <a
+                        href="https://www.instagram.com/petmatchads/" class="fa fa-instagram"></a> <br>
+                    <br>
+                    <b>
+                        <font face="bahnschrift" color="white">Fale
+                            conosco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+                    </b>
+                </div>
+            </div>
+            <div class="coluna rodape">
+                <div style="margin-top: 20px;" align="center"> </div>
+            </div>
+            <div class="coluna rodape2">
+                <div style="margin-top: 20px;" align="center">
+                    <div style="margin-top: 20px;" align="center">
+                        <form class="form-inline" action="">
+                            <div style="text-align: center;"><br>
+                            </div>
+                            <div style="text-align: center;"><br>
+                                &nbsp;&nbsp; <label for="email"><b>
+                                        <font face="bahnschrift" size="3" color="white"> Receba nossa Newsletter </font>
+                                    </b></label> </div>
+                            <input id="email" placeholder="E-mail" name="email" type="email">
+                            <button type="submit">Inscrever</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="coluna rodape"> </div>
+        </div>
+    </footer>
+
+    <!-- Html que gera a tela de login -->
+    <div id="id01" class="modal">
+        <div class="modal-content animate">
+            <div class="imgcontainer"> <span onclick="document.getElementById('id01').style.display='none'"
+                    class="close" title="Close Modal">×</span> <img src="img/img_avatar2.png" alt="Avatar"
+                    class="avatar"> </div>
+            <div class="container"> <label for="uname"><b>Usuário</b></label> <input placeholder="Insira seu e-mail"
+                    name="uname" required="" type="text" id="username" maxlength="30">
+                <label for="psw"><b>Senha</b></label> <input placeholder="Insira sua senha" name="psw" required=""
+                    type="password" id="password" size="6" maxlength="6" onkeypress="runScript(e)">
+                <button type="button" onclick="Login()">Login</button>
+                <label> <input checked="checked" name="remember" type="checkbox">
+                    Lembrar login</label>
+            </div>
+            <div class="container" style="background-color:#f1f1f1"> <button type="button"
+                    onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancelar</button>
+                <span class="psw">Esqueceu a <a href="#">senha?</a></span>
+            </div>
+        </div>
+    </div>
+    <!-- Fim componente de tela de login -->
+
+    <script>
+
+        // Função Get the modal
+
+        var modal = document.getElementById('id01');
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+
+        // Função validação de login
+
+        function Login() {
+            var usuario = document.getElementById('username').value;
+            var senha = document.getElementById('password').value;
+            if (usuario == "sosbichos@gmail.com" && senha == "123456") {
+                window.location.href = "login.html";
+            }
+
+            else {
+                alert("Dados incorretos, tente novamente");
+                window.location.href = "index.html"
+            }
+        }
+        function runScript(e) {
+            //See notes about 'which' and 'key'
+            if (e.keyCode == 13) {
+                Login();
+            }
+        }
+
+        // Função pesquisar por palavra chave
+
+        function myFunction() {
+            // Declare variables
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById('myInput');
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myUL");
+            li = ul.getElementsByTagName('li');
+
+            // Loop through all list items, and hide those who don't match the search query
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("a")[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+
+    </script>
+</body>
+
+</html>

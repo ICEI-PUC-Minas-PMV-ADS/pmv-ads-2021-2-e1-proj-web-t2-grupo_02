@@ -1,0 +1,253 @@
+<html lang="pt-br">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Login | PetMatch</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <header>
+    <div class="container" style="height: 140px">
+      <div class="box" style="margin-left: 100px;"> <a href="index.html"><img src="img/logo1.png"
+            style="width: 300px"></a> </div>
+      <div class="menu">
+        <ul style="margin: 0;">
+          <li>
+            <input type="search" id="myInput" onkeyup="myFunction()" placeholder="Pesquisar">
+            <ul id="myUL">
+              <li style="display:none;" ;><a href="nossa_história.html">Informações</a></li>
+              <li style="display:none;"><a href="queroadotar.html">Pets</a></li>
+              <li style="display:none;"><a href="queroadotar.html">Adotar</a></li> <br>
+              <li style="display:none;"><a href="queroadotar.html">Cães</a></li>
+              <li style="display:none;"><a href="queroadotar.html">Gatos</a></li>
+              <li style="display:none;"><a href="queroadotar.html">Coelhos</a></li><br>
+              <li style="display:none;"><a href="cadastro_usuario.html">Castastro</a></li>
+              <li style="display:none;"><a href="login.html">Usuário</a></li>
+              <li style="display:none;"><a href="login.html">Perfil</a></li><br>
+              <li style="display:none;"><a href="login.html">Cadastrar Animal</a></li>
+              <li style="display:none;"><a href="pet_usuario1_info.html">Mel cadela</a></li>
+            </ul>
+          <li>
+            <div style="border: 2px solid #f51b64; border-radius: 50px; margin-top: 20" class="avataruser">
+              <img src="img/avataruser.png" alt="" style="width: 60px; height: 60px; vertical-align: middle; ">
+            </div>
+          </li>
+          <li class="dropdown"> <button class="dropbtn" style="margin-top: 20">Menu</button>
+            <div class="dropdown-content"> <a href="nossa_história.html">Quem somos</a>
+              <a href="queroadotar.html">Quero Adotar</a>
+              <a href="cadastro_usuario.html">Cadastrar</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <main style="height: 439.25px;">
+    <div class="linhauser" align="center">
+      <div class="colunauser inform"> <img src="img/avataruser.png" alt=""
+          style="width: 120px; height: 120px; vertical-align: middle; padding: 20px;">
+        <font size="6pt">Olá SOS BICHOS!</font>
+        <div style="width: 60%"><br>
+          <br>
+          <p style="font-size: 14pt;"> Esses são seus pets cadastrados no site. <br> Clique na foto do pet se desejar
+            exlui-o, ou se o mesmo já
+            tiver sido adotado. <br><br><br><br> Para incluir um novo animal clique no botão abaixo.</p>
+
+          <br><br><br><a href="cadastro_animal.html"><button class="form-submit-button"
+              style="height: 50px; width: 200px; font-size: 16pt;">Cadastrar Pet</button></a>
+        </div>
+      </div>
+      <div class="colunauser pets" style="height: 439.25px; overflow-y: scroll;">
+        <!-- Código para barra de rolagem na div-->
+        <div class="linhapet">
+          <div class="colunapet fotos" id="container1">
+            <img src="" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/cat1.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/rab1.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+        </div>
+        <div class="linhapet">
+          <div class="colunapet fotos" id="container1">
+            <img src="img/cat2.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/rab2.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/dog2.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+        </div>
+        <div class="linhapet">
+          <div class="colunapet fotos" id="container1">
+            <img src="img/rab3.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/dog3.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+          <div class="colunapet fotos" id="container1">
+            <img src="img/cat3.png" class="responsive" style="width: 100%;">
+            <div id="conteudo1">
+              <input class="inputexcluir" type="button" value="Excluir"
+                onclick="alert('Animal excluído com sucesso!');" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="linha">
+      <div class="coluna rodape">
+        <div style="margin-top: 20px;" align="right"> <a href="https://www.facebook.com/profile.php?id=100074289276755"
+            class="fa fa-facebook"> <a href="https://twitter.com/AdsProjeto" class="fa fa-twitter"></a> <a
+              href="https://www.instagram.com/petmatchads/" class="fa fa-instagram"></a> <br>
+            <br>
+            <b>
+              <font face="bahnschrift" color="white">Fale
+                conosco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+            </b>
+        </div>
+      </div>
+      <div class="coluna rodape">
+        <div style="margin-top: 20px;" align="center">
+        </div>
+      </div>
+      <div class="coluna rodape2">
+        <div style="margin-top: 20px;" align="center">
+          <div style="margin-top: 20px;" align="center">
+            <form class="form-inline" action="">
+              <div style="text-align: center;"><br>
+              </div>
+              <div style="text-align: center;"><br>
+                &nbsp;&nbsp; <label for="email"><b>
+                    <font face="bahnschrift" size="3" color="white"> Receba nossa Newsletter </font>
+                  </b></label> </div>
+              <input id="email" placeholder="E-mail" name="email" type="email">
+              <button type="submit">Inscrever</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="coluna rodape"> </div>
+    </div>
+  </footer>
+
+  <!-- Html que gera a tela de login -->
+  <div id="id01" class="modal">
+    <form class="modal-content animate" action="login.html" method="post">
+      <div class="imgcontainer"> <span onclick="document.getElementById('id01').style.display='none'" class="close"
+          title="Close Modal">×</span> <img src="img/img_avatar2.png" alt="Avatar" class="avatar"> </div>
+      <div class="container"> <label for="uname"><b>Usuário</b></label> <input placeholder="Insira seu e-mail"
+          name="uname" required="" type="text">
+        <label for="psw"><b>Senha</b></label> <input placeholder="Insira sua senha" name="psw" required=""
+          type="password"> <button type="submit">Login</button>
+        <label> <input checked="checked" name="remember" type="checkbox">
+          Lembrar login</label>
+      </div>
+      <div class="container" style="background-color:#f1f1f1"> <button type="button"
+          onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancelar</button>
+        <span class="psw">Esqueceu a <a href="#">senha?</a></span>
+      </div>
+    </form>
+  </div>
+  <!-- Fim componente de tela de login -->
+
+  <script>
+
+    // Função Get the modal
+
+    var modal = document.getElementById('id01');
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+
+    // Função validação de login
+
+    function Login() {
+      var usuario = document.getElementById('username').value;
+      var senha = document.getElementById('password').value;
+      if (usuario == "sosbichos@gmail.com" && senha == "123456") {
+        window.location.href = "login.html";
+      }
+
+      else {
+        alert("Dados incorretos, tente novamente");
+        window.location.href = "index.html"
+      }
+    }
+    function runScript(e) {
+      //See notes about 'which' and 'key'
+      if (e.keyCode == 13) {
+        Login();
+      }
+    }
+
+    // Função pesquisar por palavra chave
+
+    function myFunction() {
+      // Declare variables
+      var input, filter, ul, li, a, i, txtValue;
+      input = document.getElementById('myInput');
+      filter = input.value.toUpperCase();
+      ul = document.getElementById("myUL");
+      li = ul.getElementsByTagName('li');
+
+      // Loop through all list items, and hide those who don't match the search query
+      for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          li[i].style.display = "";
+        } else {
+          li[i].style.display = "none";
+        }
+      }
+    }
+
+  </script>
+</body>
+
+</html>
