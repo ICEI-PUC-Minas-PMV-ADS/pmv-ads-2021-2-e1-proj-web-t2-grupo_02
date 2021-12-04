@@ -15,7 +15,7 @@ Caso ele opte por seguir pelo primeiro caminho <b>(quem somos)</b>, uma tela é 
 
 Clicando em <b>(quero adotar)</b>, é aberto uma tela (tela 5) com as imagens dos animais disponíveis para adoção.
 
-Quando clicar no submenu <b>(Cadastrar)</b>, ele é redirecionado para uma tela (tela 7) para realização do cadastro no site. A tela contém um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro é disponibilizado para o usuário a informação do login para acesso ao site.
+Quando clicar no submenu <b>(cadastrar)</b>, ele é redirecionado para uma tela (tela 7) para realização do cadastro no site. A tela contém um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro é disponibilizado para o usuário a informação do login para acesso ao site.
 
 Quando clicar em <b>(Loguin)</b> na tela inicial, o usuário entrará numa conta já registrada no site.
   
