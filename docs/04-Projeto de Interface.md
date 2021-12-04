@@ -59,7 +59,7 @@ A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado n
 
 Nesta tela as informações de personalidade são apresentadas. 
   
-![INFORMAÇÕES DO ANIMAL] (https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)  
+![INFORMAÇÕES DO ANIMAL](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)  
 
 
 
