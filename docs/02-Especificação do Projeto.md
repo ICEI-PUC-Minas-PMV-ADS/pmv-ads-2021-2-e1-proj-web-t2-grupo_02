@@ -128,9 +128,9 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 
 |ID     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
-|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar animais para  adoção, quem somos. | ALTA | 
+|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar, quem somos. | ALTA | 
 |RF-002 | O site deve apresentar imagens dos animais disponíveis para adoção. | ALTA |
-|RF-003 | Quando o usuário clicar na foto do animal disponível para adoção, o site deve redirecioná-lo para uma tela com as informações do animal. | ALTA |
+|RF-003 | Quando o usuário clicar no sub menu quero adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresentado as imagens dos animais disponíveis para adoção. | ALTA |
 |RF-004 | O site deve ter um formulário para preenchimento do usuário quando ele desejar se cadastrar e após ele realizar o cadastro deverá ser disponibilizado um login e senha para acesso ao site. | ALTA |
 |RF-005| O site deve conter no espaço do cadastro de animais, a opção de excluir/editar os dados dos animais disponíveis ou adotados. | MÉDIA |
 |RF-006 |O site deve apresentar para o usuário uma página com as informações de “quem somos”. | MÉDIA |
