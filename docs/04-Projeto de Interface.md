@@ -50,10 +50,6 @@ A tela de Cadastro apresenta os campos a serem preenchidos para se cadastrar. Es
 ![CADASTRO](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)
 
 
-
-
-![PET MATCH](https://user-images.githubusercontent.com/83349744/135914088-15d7041f-c46e-4120-b95a-1b68f0f2c1fb.png)
-
 ### Tela - Entrar em contato
 Esta é a tela onde as informações da ONG (ou tutor) aparecem.
 
@@ -66,10 +62,6 @@ Caso o usuário tenha dado "Match!" no animal, ele será redirecionado a tela de
 ![FICHA DE ADOÇÃO](https://user-images.githubusercontent.com/83349744/135920827-31be4db9-dca1-4721-82ba-85bfdf065f7c.png)
 
 
-### Tela - Parabéns
-A tela de parabéns aparece ao enviar sua ficha de adoção. Nela vai conter a explicação do processo de adoção e onde poderá encontrar o seguimento do processo.
-
-![PARABENS](https://user-images.githubusercontent.com/83349744/135909041-15899eee-3857-4bee-9689-bc05e980bca6.png)
 
 ### Tela - Status de adoção
 Ao clicar na foto do animal poderá ver o andamento de seu processo de adoção. Terá a opção de entrar em contato na tela, para caso tenha alguma dúvida ou problema, poderá contatar a ONG (ou tutor) em questão.
