@@ -32,9 +32,8 @@ Conteúdo - apresenta o conteúdo da tela em questão;
 Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 
 ## Tela - Inicial ou Home-page
-A tela de home-page mostra a imagem de um animal. Apresenta um componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
-Um menu pra que vá direto ao objetivo do usuário em questão;
-Componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
+A tela de home-page mostra a imagem de um animal.
+Um menu pra que vá direto ao objetivo do usuário em questão; componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
 O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newsletter.
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
