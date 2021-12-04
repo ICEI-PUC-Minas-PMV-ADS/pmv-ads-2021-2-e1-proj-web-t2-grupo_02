@@ -11,7 +11,7 @@ Sendo assim, cada vez mais cientes da responsabilidade humana para com os animai
 
 ## Problema
 
-Diante do exposto acima, este projeto busca resolver o problema da falta de informações durante o processo de adoção de animais, contribuindo para que adotantes e instituições tenham maior assertividade na adoção do animal de acordo com cada perfil e promovendo condições para vivência do animal em seu novo ambiente.
+Diante do exposto acima, este projeto busca resolver o problema da falta de informações durante o processo de adoção de animais, contribuindo para que adotantes e instituições tenham maior assertividade na adoção do animal.
 
 ## Objetivos
 
