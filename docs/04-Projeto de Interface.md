@@ -48,6 +48,12 @@ Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a his
 Esta é a tela onde estão as fotos dos animais disponíveis para adoção. 
 
 ![QUERO ADOTAR](https://user-images.githubusercontent.com/83349744/135913470-e65f3c38-a840-4dba-a8f1-a1b54efe483c.png)
+  
+### Tela - Cadastrar 
+  
+A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado na plataforma. Esses campos contam com nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. Quando completado, deve enviar o formulário.  
+  
+![CADASTRAR](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)  
 
 
 
