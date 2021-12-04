@@ -57,7 +57,7 @@ A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado n
   
 ## Tela - Informações do Animal
 
-Nesta tela as informações de personalidade são apresentadas. 
+Nesta tela as informações do animal são apresentadas. 
   
 ![INFORMAÇÕES DO ANIMAL](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)  
 
