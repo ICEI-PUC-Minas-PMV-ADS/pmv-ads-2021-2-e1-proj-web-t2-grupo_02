@@ -128,14 +128,17 @@ A partir das histórias de usuário criadas, foram definidos os seguintes requis
 
 |ID     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
-|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar, quem somos. | ALTA | 
-|RF-002 | O site deve apresentar imagens dos animais disponíveis para adoção. | ALTA |
-|RF-003 | Quando o usuário clicar no sub menu quero adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresentado as imagens dos animais disponíveis para adoção. | ALTA |
-|RF-004 | O site deve ter um formulário para preenchimento do usuário quando ele desejar se cadastrar e após ele realizar o cadastro deverá ser disponibilizado um login e senha para acesso ao site. | ALTA |
-|RF-005| O site deve conter no espaço do cadastro de animais, a opção de excluir/editar os dados dos animais disponíveis ou adotados. | MÉDIA |
-|RF-006 |O site deve apresentar para o usuário uma página com as informações de “quem somos”. | MÉDIA |
-|RF-007 | O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada ou realizar seu cadastro. | ALTA |
-
+|RF-001 | O site deve apresentar na página inicial um menu com os seguintes submenus: quero adotar, cadastrar animais para adoção, quem somos. | ALTA | 
+|RF-002 | Quando o usuário clicar no submenu Quero Adotar, ele deverá ser redirecionado para uma tela onde deverá ser apresetando as imagens dos animais disponíveis para adoção. | ALTA |
+|RF-003 | Quando o usuário clicar na foto do animal disponível para adoção, o site deve redirecioná-lo para uma tela com as informações do animal. | ALTA |
+|RF-004 | Quando o usuário clicar no submenu Cadastrar, ele deverá ser redirecionado para uma tela para realização do cadastro no site. A tela deverá conter um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro deverá ser disponibilizado para o usuário a informação do login para acesso ao site. | ALTA |
+|RF-005| O site deve ter a opção de excluir os dados dos animais cadastrados no site. | MÉDIA |
+|RF-006 | Quando o usuário clicar no submenu Quem Somos, ele deverá ser redirecionado para uma página contendo algumas informações instituições da empresa criadora e mantedora do site. | MÉDIA |
+|RF-007 | O site deve apresentar botão de login na página inicial, para o usuário poder entrar numa conta já registrada no site. | ALTA |
+|RF-008 | Quando o usuário estiver logado no site, deverá ser apresentado para ele a opção de Cadastrar Pet. E quando o usuário clciar nesta opção, ele deverá ser redirecionado para uma tela contendo um formulário com os seguintes campos: nome, gênero do animal, descrição do animal, tipo, situação, peso, campo para upload da imagem do animal. | ALTA |
+|RF-009 | O site deverá ter um campo para que o usuário possa pesquisar uma determinada palavra ou conteúdo no site. | MÉDIA |
+|RF-010 | O site deverá ter um atalho para acesso as redes sociais twitter, instragram e facebook do site. | MÉDIA |
+|RF-011 | O site deverá conter um campo para cadastro para recebimento da  newsletter. | MÉDIA |
 
 ### Requisitos não Funcionais
 
