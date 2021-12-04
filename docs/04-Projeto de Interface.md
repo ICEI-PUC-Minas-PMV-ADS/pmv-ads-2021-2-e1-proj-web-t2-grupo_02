@@ -33,13 +33,13 @@ Rodapé - apresenta nossas redes sociais, fale conosco e opção de newleaster.
 
 ## Tela - Inicial ou Home-page
 A tela de home-page mostra a imagem de um animal.
-Um menu pra que vá direto ao objetivo do usuário em questão; componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site.
+Um menu pra que vá direto ao objetivo do usuário em questão; componente de Login para caso queira entrar em sua conta já registrada ou se registrar em nosso site. Há um ítem disponível para pesquisa referente ao conteúdo do site. 
 O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newsletter.
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
   
 ## Tela - Quem somos
-Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
+Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a história de como a ideia surgiu e o objetivo da plataforma. Também conterá com a imagem de um pet (não necessariamente em adoção na plataforma).
 
 ![QUEM SOMOS](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
@@ -56,7 +56,7 @@ A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado n
   
 ## Tela - Informações do Animal
 
-Nesta tela as informações do animal são apresentadas. 
+Nesta tela as informações do animal são apresentadas. Também conterá com a imagem de um pet (não necessariamente em adoção na plataforma).
   
 ![INFORMAÇÕES DO ANIMAL](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)  
 
