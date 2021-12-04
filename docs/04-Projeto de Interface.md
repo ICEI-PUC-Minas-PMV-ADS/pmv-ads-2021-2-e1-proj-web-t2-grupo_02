@@ -6,7 +6,7 @@
 
 Neste link pode ver as telas e seguir os fluxos - https://xd.adobe.com/view/cdbe3b7d-1f59-4332-b0e8-81182dbaab18-98ed/screen/6d059f95-6e07-4318-9bcb-e3e8f786f3b0
 
-<h3>FLUXOS DO SITE:</h3>
+<h3>FLUXOS DO SITE</h3>
 
 Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
 (Tela 1) que possui as opções de <b>quem somos<b>quero adotar<b>cadastrar</b>.
