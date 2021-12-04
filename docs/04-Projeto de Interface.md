@@ -54,6 +54,12 @@ Esta é a tela onde estão as fotos dos animais disponíveis para adoção.
 A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado na plataforma. Esses campos contam com nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. Quando completado, deve enviar o formulário.  
   
 ![CADASTRAR](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)  
+  
+## Tela - Informações do Animal
+
+Nesta tela as informações de personalidade são apresentadas. 
+  
+![INFORMAÇÕES DO ANIMAL] (https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)  
 
 
 
