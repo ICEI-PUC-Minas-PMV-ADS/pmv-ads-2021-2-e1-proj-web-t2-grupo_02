@@ -38,30 +38,19 @@ Componente de Login para caso queira entrar em sua conta já registrada ou se re
 O rodapé é padronizado, contendo nossas redes sociais, fale conosco e newsletter.
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/83349744/135902314-0bb83376-9e61-4da8-aea0-4451e732c22c.png)
+  
+### Tela - Quem somos
+Ao clicar em "Quem somos" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
 
-
-### Tela - Login
-A tela possui componentes que permitem que o usuário cadastre-se no site ou entre em uma conta já existente. Um campo de "Usuário" e "Senha" onde pressionando em "Entrar" fará Login em sua conta, um texto explicando o que nossa plataforma pode, em uma de suas funcionalidades, proporcional caso se cadastre seguido de um botão de "Cadastrar".
-
-![LOGIN](https://user-images.githubusercontent.com/83349744/135903337-4eaf2079-b14f-4d6d-9d93-f07de299aed8.png)
+![NOSSA HISTORIA](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
 ### Tela - Cadastro
-A tela de Cadastro apresenta os campos a serem preenchidos para ser registrado na plataforma e conseguir encontrar seu pet ideal. Esses campos contam com "Nome", "Idade", "Sexo", "Endereço", "Ocupação", "Espécie". Quando completado, deve enviar o formulário.
+A tela de Cadastro apresenta os campos a serem preenchidos para se cadastrar. Esses campos contam com nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha.
 
 ![CADASTRO](https://user-images.githubusercontent.com/83349744/135903984-a41d42a9-aa42-425b-85fb-db72c733f61c.png)
 
-### Tela - Match!
-Quando enviado seu cadastro, ou já registrado na plataforma, encontramos pets que possuem compatibilidade com o seu perfil, e na tela fica disposto um campo com algumas imagens dos pets compatíveis. Clicando em uma delas, você é redirecionado.
 
-![PERFIL MATCH](https://user-images.githubusercontent.com/83349744/135921016-6e30fc1b-945b-4159-870c-b040249ae0fc.png)
 
-### Tela - História do Pet
-
-Nesta tela a história do resgate do pet e de sua personalidade são apresentadas. Caso o usuário goste do pet ele possui duas opções: clicar em "Match!" seguindo assim para o processo de adoção, ou clicar em "Entrar em Contato" onde o usuário terá as informações da ONG (ou tutor) caso queira ligar ou fazer uma visita por exemplo.
-
-![HIST PET](https://user-images.githubusercontent.com/83349744/135906373-4cbd4d47-254c-4086-9f80-04fe0b0bba28.png)
-
-Esta é uma variação da tela de Match, onde apenas o botão de "entrar em contato" não aparece. Ele é apresentado quando um tutor ou ONG não quer expor seu endereço (da ong ou pessoal). Porém a ONG (ou tutor) ainda sim entrará em contato pela plataforma, email ou celular caso siga em processo de adoção. (OBS: Alguns lugares evitam se expor para não acontecer infortúnios como pessoas abandonando animais em frente de suas portas)
 
 ![PET MATCH](https://user-images.githubusercontent.com/83349744/135914088-15d7041f-c46e-4120-b95a-1b68f0f2c1fb.png)
 
@@ -114,9 +103,6 @@ Quando selecionada a opção no menu de "Informações", uma tela será apresent
 
 ![INFORMAÇÕES](https://user-images.githubusercontent.com/83349744/135914453-f15688d6-5d77-47e2-9468-d9020c876121.png)
 
-### Tela - Nossa história
-Ao clicar em "Nossa história" no Menu, será redirecionado a uma tela contando a história de como a idéia surgiu e o objetivo da plataforma. Também conterá a imagem de um pet (não necessariamente em adoção na plataforma).
 
-![NOSSA HISTORIA](https://user-images.githubusercontent.com/83349744/135914825-dbdaf354-2a59-4578-843a-96f6d4ca57cb.png)
 
 
