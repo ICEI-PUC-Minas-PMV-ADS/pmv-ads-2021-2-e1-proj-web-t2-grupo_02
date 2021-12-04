@@ -8,7 +8,7 @@ Neste link pode ver as telas e seguir os fluxos - https://xd.adobe.com/view/cdbe
 
 <h3>FLUXOS DO SITE</h3>
 
-Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b> .
+Assim que entra na plataforma, ele é apresentado à <b> tela inicial </b>.
 (Tela 1) que possui as opções de <b>quem somos<b>quero adotar<b>cadastrar</b>.
 
 Caso ele opte por seguir pelo primeiro caminho <b>(quem somos)</b>, uma tela é aberta com as informações do site (Tela 3), onde consta a história do projeto, nossa missão, visão e valores. 
