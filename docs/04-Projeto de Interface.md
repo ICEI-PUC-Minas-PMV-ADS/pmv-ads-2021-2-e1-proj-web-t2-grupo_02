@@ -17,7 +17,7 @@ Clicando em "Quero Adotar", é aberto uma tela (tela 5) com as imagens dos anima
 
 Quando clicar no submenu "Cadastrar", ele é redirecionado para uma tela (tela 7) para realização do cadastro no site. A tela contém um formulário para preenchimento do usuário com os seguintes campos: nome, telefone, data de nascimento, e-mail, endereço, gênero, complemento, ocupação e senha. E após o cadastro é disponibilizado para o usuário a informação do login para acesso ao site.
 
-Quando clicar em "Loguin" na tela inicial, o usuário entrará numa conta já registrada no site.
+Quando clicar em "Login" na tela inicial, o usuário entrará numa conta já registrada no site.
   
 Quando o usuário clicar na foto do animal (tela 5) disponível para adoção, o site irá redirecioná-lo para uma tela com as informações do animal (tela 6).
 
